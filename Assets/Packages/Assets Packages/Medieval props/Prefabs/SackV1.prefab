@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 465218}
   - component: {fileID: 3317988}
   - component: {fileID: 2326118}
-  - component: {fileID: 6427650}
+  - component: {fileID: 5829876638187727826}
   m_Layer: 0
   m_Name: SackV1
   m_TagString: Untagged
@@ -27,13 +27,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 110950}
   serializedVersion: 2
-  m_LocalRotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
+  m_LocalRotation: {x: -0, y: -0.7069834, z: -0.7072302, w: 0}
   m_LocalPosition: {x: -3.1132, y: 1e-15, z: -2.1043}
   m_LocalScale: {x: 0.6506775, y: 0.6506775, z: 0.6506775}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: -180}
 --- !u!33 &3317988
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -84,8 +84,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6427650
-MeshCollider:
+--- !u!65 &5829876638187727826
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -102,7 +102,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 0e5ed2a9885274a43b78a1467867b3da, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 2.1783667, y: 1.6836513, z: 3.7141678}
+  m_Center: {x: 0.02387309, y: 0.05195217, z: 1.8503844}

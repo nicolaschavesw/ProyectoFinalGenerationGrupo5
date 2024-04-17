@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 485976}
   - component: {fileID: 3349738}
   - component: {fileID: 2372878}
-  - component: {fileID: 6443776}
+  - component: {fileID: 2952309262762577770}
   m_Layer: 0
   m_Name: PileOfWoodV2
   m_TagString: Untagged
@@ -27,13 +27,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 127250}
   serializedVersion: 2
-  m_LocalRotation: {x: -5.9883304e-17, y: 0.9779686, z: -0.20875226, w: 1.278239e-17}
+  m_LocalRotation: {x: 0, y: 0.97796947, z: -0.2087481, w: 0}
   m_LocalPosition: {x: 8.14, y: 0, z: -13.64}
-  m_LocalScale: {x: 0.60453856, y: 0.27837783, z: 0.27837783}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2, y: 0.92095965, z: 0.92095965}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 24.098, y: 180, z: 0}
 --- !u!33 &3349738
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -84,8 +84,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6443776
-MeshCollider:
+--- !u!65 &2952309262762577770
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -102,7 +102,6 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 7091a1ae0fcc48240805a69623378322, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 2.276732, y: 6.803172, z: 9.033687}
+  m_Center: {x: 1.231503e-23, y: 2.1072445, z: 1.1449199}

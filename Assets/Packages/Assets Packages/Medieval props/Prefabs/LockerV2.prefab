@@ -26,8 +26,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.1434, y: 1e-15, z: -11.98}
-  m_LocalScale: {x: 0.55197126, y: 0.55197126, z: 0.55197126}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 1.7, y: 1.7, z: 1.7}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 482620}
   - {fileID: 460352}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 482620}
   - component: {fileID: 3309818}
   - component: {fileID: 2376334}
-  - component: {fileID: 6442502}
+  - component: {fileID: 6528980640036517173}
   m_Layer: 0
   m_Name: Cube.001
   m_TagString: Untagged
@@ -117,8 +117,8 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6442502
-MeshCollider:
+--- !u!65 &6528980640036517173
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -135,10 +135,9 @@ MeshCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 6a22da7f7e9abd7478e8e7d518cc8053, type: 3}
+  serializedVersion: 3
+  m_Size: {x: 2.664233, y: 6.0375714, z: 3.4957793}
+  m_Center: {x: 1.3936466, y: 0.14137231, z: -1.7412697}
 --- !u!1 &157358
 GameObject:
   m_ObjectHideFlags: 0
@@ -150,7 +149,6 @@ GameObject:
   - component: {fileID: 460352}
   - component: {fileID: 3375196}
   - component: {fileID: 2382760}
-  - component: {fileID: 6418448}
   m_Layer: 0
   m_Name: Cube.002
   m_TagString: Untagged
@@ -223,25 +221,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &6418448
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 157358}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300002, guid: 6a22da7f7e9abd7478e8e7d518cc8053, type: 3}
