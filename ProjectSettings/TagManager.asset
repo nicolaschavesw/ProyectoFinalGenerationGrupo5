@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - PanelMusica
+  - CinemachineTarget
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Personajes
   - Water
   - UI
   - 
