@@ -34,55 +34,62 @@ public class ControlleGamePLayUi : MonoBehaviour
     {
 
 
+        
+        // Button botonDeContinuar = botonContinuar.GetComponent<Button>();
+		// botonDeContinuar.onClick.AddListener(ContinuarJuego);
 
-        Button botonDeContinuar = botonContinuar.GetComponent<Button>();
-		botonDeContinuar.onClick.AddListener(ContinuarJuego);
-
-        Button botonReiniciar = botonReiniciarjuego.GetComponent<Button>();
-		botonReiniciar.onClick.AddListener(ReiniciarJuego);
-
-
-        Button elementoPanelVictoriaVolverMenu = botonPanelVictoriaVolverMenu.GetComponent<Button>();
-		elementoPanelVictoriaVolverMenu.onClick.AddListener(volverMenu);
+        // Button botonReiniciar = botonReiniciarjuego.GetComponent<Button>();
+		// botonReiniciar.onClick.AddListener(ReiniciarJuego);
 
 
-        Button elementobotonPanelDerroReiniciar = botonPanelDerroReiniciar.GetComponent<Button>();
-		elementobotonPanelDerroReiniciar.onClick.AddListener(ReiniciarJuego);
-        Button elementobotonPanelComenzardeNuevo = botonPanelComenzardeNuevo.GetComponent<Button>();
-		elementobotonPanelComenzardeNuevo.onClick.AddListener(volverMenu);
+        // Button elementoPanelVictoriaVolverMenu = botonPanelVictoriaVolverMenu.GetComponent<Button>();
+		// elementoPanelVictoriaVolverMenu.onClick.AddListener(volverMenu);
 
-        Button elementobotonPausaMusica=botonPausaMusica.GetComponent<Button>();
-        elementobotonPausaMusica.onClick.AddListener(PausarJuego);
-        Button elementobotonVolverMusica=botonVolverMusica.GetComponent<Button>();
-        elementobotonVolverMusica.onClick.AddListener(ContinuarJuego);
 
-        Button elementobotonPausaControles=botonPausaControles.GetComponent<Button>();
-        elementobotonPausaControles.onClick.AddListener(PausarJuego);
+        // Button elementobotonPanelDerroReiniciar = botonPanelDerroReiniciar.GetComponent<Button>();
+		// elementobotonPanelDerroReiniciar.onClick.AddListener(ReiniciarJuego);
+        // Button elementobotonPanelComenzardeNuevo = botonPanelComenzardeNuevo.GetComponent<Button>();
+		// elementobotonPanelComenzardeNuevo.onClick.AddListener(volverMenu);
 
-        Button elementobotonVolverControles=botonVolverControles.GetComponent<Button>();
-        elementobotonVolverControles.onClick.AddListener(ContinuarJuego);
+        // Button elementobotonPausaMusica=botonPausaMusica.GetComponent<Button>();
+        // elementobotonPausaMusica.onClick.AddListener(PausarJuego);
+        // Button elementobotonVolverMusica=botonVolverMusica.GetComponent<Button>();
+        // elementobotonVolverMusica.onClick.AddListener(ContinuarJuego);
+
+        // Button elementobotonPausaControles=botonPausaControles.GetComponent<Button>();
+        // elementobotonPausaControles.onClick.AddListener(PausarJuego);
+
+        // Button elementobotonVolverControles=botonVolverControles.GetComponent<Button>();
+        // elementobotonVolverControles.onClick.AddListener(ContinuarJuego);
 
         
 
-        Button botonMenu = botonVolverMenu.GetComponent<Button>();
-		botonMenu.onClick.AddListener(volverMenu);
-        panelVictoria=GameObject.Find("Panel Victoria");
-        panelVictoria.SetActive(false);
+        // Button botonMenu = botonVolverMenu.GetComponent<Button>();
+		// botonMenu.onClick.AddListener(volverMenu);
+        // panelVictoria=GameObject.Find("Panel Victoria");
+        // panelVictoria.SetActive(false);
 
 
-        panelDerrota=GameObject.Find("Panel Derrota");
-        panelDerrota.SetActive(false);
+        // panelDerrota=GameObject.Find("Panel Derrota");
+        // panelDerrota.SetActive(false);
+
+        canvasPause.SetActive(false);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {   
+            PausarJuego();
+        }
     }
     void PausarJuego()
     {
+        canvasPause.SetActive(true);
         Time.timeScale=0.0f;
     }
+    
     void ContinuarJuego()
     {
         Time.timeScale=1.0f;

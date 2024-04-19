@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine.Audio;
 using UnityEngine.UI;
 using UnityEngine;
@@ -12,6 +10,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioMixer myMixer;
     [SerializeField] private Slider musicSlider;
     [SerializeField] private Slider SFXSlider;
+    
 
     private void Awake()
     {
@@ -47,7 +46,7 @@ public class AudioManager : MonoBehaviour
     {
         if (PlayerPrefs.HasKey("musicVolume"))
         {
-         //   LoadVolume();
+
         }
         else
         {
