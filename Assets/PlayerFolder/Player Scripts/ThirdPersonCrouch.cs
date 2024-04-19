@@ -7,7 +7,7 @@ using UnityEditor.Rendering;
 
 public class ThirdPersonCrouch : MonoBehaviour
 {
-    [SerializeField] private CinemachineVirtualCamera crouchVirtualcamera;
+    [SerializeField] private CinemachineVirtualCamera crouchVirtualCamera;
 
     private StarterAssetsInputs starterAssetsInputs;
 
@@ -23,12 +23,12 @@ public class ThirdPersonCrouch : MonoBehaviour
     {
         if (starterAssetsInputs.crouch)
         {
-            crouchVirtualcamera.gameObject.SetActive(true);
+            crouchVirtualCamera.gameObject.SetActive(true);
             animator.SetLayerWeight(1, Mathf.Lerp(animator.GetLayerWeight(1),1f, Time.deltaTime * 10.0f));
         }
         else
         {
-            crouchVirtualcamera.gameObject.SetActive(false);
+            crouchVirtualCamera.gameObject.SetActive(false);
             animator.SetLayerWeight(1, Mathf.Lerp(animator.GetLayerWeight(1), 0f, Time.deltaTime * 10.0f));
 
         }
