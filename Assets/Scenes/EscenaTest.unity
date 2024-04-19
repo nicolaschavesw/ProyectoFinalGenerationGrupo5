@@ -123,6 +123,64 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &275520656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 275520658}
+  - component: {fileID: 275520657}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &275520657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 275520656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25ede44e9c6de1449b6e14eabb18964b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  botonPausa: {fileID: 5602555372774423230}
+  botonContinuar: {fileID: 5602555372779679086}
+  botonReiniciarjuego: {fileID: 5602555374362159452}
+  botonVolverMenu: {fileID: 5602555374425085221}
+  botonPanelVictoriaVolverMenu: {fileID: 5602555373511498219}
+  botonPanelDerroReiniciar: {fileID: 5602555373053068648}
+  botonPanelComenzardeNuevo: {fileID: 5602555372818717092}
+  botonPausaMusica: {fileID: 0}
+  botonVolverMusica: {fileID: 0}
+  botonPausaControles: {fileID: 0}
+  botonVolverControles: {fileID: 7310695150156435098}
+  panelVictoria: {fileID: 5602555373955116337}
+  panelDerrota: {fileID: 5602555372621258220}
+  canvasPause: {fileID: 5602555374241835459}
+--- !u!4 &275520658
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 275520656}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 286.28915, y: 36.779793, z: -0.96360785}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &304022997
 GameObject:
   m_ObjectHideFlags: 0
@@ -3467,7 +3525,6 @@ GameObject:
   - component: {fileID: 5602555374241835460}
   - component: {fileID: 5602555374241835461}
   - component: {fileID: 5602555374241835458}
-  - component: {fileID: 5602555374241835462}
   m_Layer: 5
   m_Name: Canvas Game Play
   m_TagString: Untagged
@@ -3521,32 +3578,6 @@ MonoBehaviour:
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
   m_PresetInfoIsWorld: 0
---- !u!114 &5602555374241835462
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5602555374241835459}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25ede44e9c6de1449b6e14eabb18964b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  botonPausa: {fileID: 5602555372774423230}
-  botonContinuar: {fileID: 5602555372779679086}
-  botonReiniciarjuego: {fileID: 5602555374362159452}
-  botonVolverMenu: {fileID: 5602555374425085221}
-  botonPanelVictoriaVolverMenu: {fileID: 5602555373511498219}
-  botonPanelDerroReiniciar: {fileID: 5602555373053068648}
-  botonPanelComenzardeNuevo: {fileID: 5602555372818717092}
-  botonPausaMusica: {fileID: 0}
-  botonVolverMusica: {fileID: 0}
-  botonPausaControles: {fileID: 0}
-  botonVolverControles: {fileID: 7310695150156435098}
-  panelVictoria: {fileID: 5602555373955116337}
-  panelDerrota: {fileID: 5602555372621258220}
-  canvasPause: {fileID: 0}
 --- !u!224 &5602555374241835463
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6212,3 +6243,4 @@ SceneRoots:
   - {fileID: 1292111343}
   - {fileID: 1841299742}
   - {fileID: 1484520167}
+  - {fileID: 275520658}
