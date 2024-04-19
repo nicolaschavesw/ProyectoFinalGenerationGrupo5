@@ -25,13 +25,15 @@ public class ControlleGamePLayUi : MonoBehaviour
     public GameObject panelVictoria;
     public GameObject panelDerrota;
 
+    [Header("Canvas")]
+    public GameObject canvasPause;
+
 
 
     void Start()
     {
 
-        Button botonDePausa = botonPausa.GetComponent<Button>();
-		botonDePausa.onClick.AddListener(PausarJuego);
+
 
         Button botonDeContinuar = botonContinuar.GetComponent<Button>();
 		botonDeContinuar.onClick.AddListener(ContinuarJuego);
