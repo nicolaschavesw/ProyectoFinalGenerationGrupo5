@@ -12,7 +12,7 @@ public class CambiarEscena : MonoBehaviour
     }
     public void cambiarEscenaNivel1()
     {
-        SceneManager.LoadScene("EscenaTest");
+        SceneManager.LoadScene("Level Design");
     }
     public void cambiarEscenaNivelMenu()
     {
