@@ -12,26 +12,26 @@ public class CambiarEscena : MonoBehaviour
 
     public Button sonidoBoton;
     public AudioClip audioBotones;
-    public void cambiarEscenaPersonajes()
-    {
-        SceneManager.LoadScene("ScenaPersonajes");
-    }
-    public void cambiarEscenaNivel1()
-    {
-        SceneManager.LoadScene("Level Design");
-    }
-    public void cambiarEscenaNivelMenu()
-    {
-        SceneManager.LoadScene("MainMenu");
-    }
+    // public void cambiarEscenaPersonajes()
+    // {
+    //     SceneManager.LoadScene("ScenaPersonajes");
+    // }
+    // public void cambiarEscenaNivel1()
+    // {
+    //     SceneManager.LoadScene("Level Design");
+    // }
+    // public void cambiarEscenaNivelMenu()
+    // {
+    //     SceneManager.LoadScene("MainMenu");
+    // }
 
-    public void clikearBoton()
+    public void ClikearBoton()
     {
         AudioManager.InstanceMusic.PlaySound(audioBotones);
     }
 
-    void Start()
+    public void SiguienteEscena(string nombreEscena)
     {
-        sonidoBoton.GetComponent<Button>().onClick.AddListener(clikearBoton);
+        SceneManager.LoadScene(nombreEscena);
     }
 }
