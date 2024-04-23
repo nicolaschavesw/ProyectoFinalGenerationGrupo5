@@ -204,6 +204,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas Game Play
       objectReference: {fileID: 0}
+    - target: {fileID: 2987445278375901678, guid: 419e4e112c8817641b78e61abf9f33cf,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 679690181}
+    - target: {fileID: 2987445278375901678, guid: 419e4e112c8817641b78e61abf9f33cf,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SalirDelJuego
+      objectReference: {fileID: 0}
+    - target: {fileID: 3456591699233543915, guid: 419e4e112c8817641b78e61abf9f33cf,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 679690181}
+    - target: {fileID: 3456591699233543915, guid: 419e4e112c8817641b78e61abf9f33cf,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ReanudarJuego
+      objectReference: {fileID: 0}
+    - target: {fileID: 8103693907871971767, guid: 419e4e112c8817641b78e61abf9f33cf,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 679690181}
+    - target: {fileID: 8103693907871971767, guid: 419e4e112c8817641b78e61abf9f33cf,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: volverMenu
+      objectReference: {fileID: 0}
     - target: {fileID: 8230566885952068264, guid: 419e4e112c8817641b78e61abf9f33cf,
         type: 3}
       propertyPath: m_Pivot.x
@@ -303,6 +333,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8733440874101498343, guid: 419e4e112c8817641b78e61abf9f33cf,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 679690181}
+    - target: {fileID: 8733440874101498343, guid: 419e4e112c8817641b78e61abf9f33cf,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ReiniciarJuego
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2338,6 +2378,74 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &444055806
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 444055809}
+  - component: {fileID: 444055808}
+  - component: {fileID: 444055807}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &444055807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 444055806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &444055808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 444055806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &444055809
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 444055806}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &460907100
 Mesh:
   m_ObjectHideFlags: 0
@@ -4807,6 +4915,18 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!114 &679690181 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1892318226180712934, guid: e0f4001efa5b1ed4a973952681b8c33b,
+    type: 3}
+  m_PrefabInstance: {fileID: 1146988745}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25ede44e9c6de1449b6e14eabb18964b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!43 &685775944
 Mesh:
   m_ObjectHideFlags: 0
@@ -16997,3 +17117,4 @@ SceneRoots:
   - {fileID: 1140785336}
   - {fileID: 37031541}
   - {fileID: 1146988745}
+  - {fileID: 444055809}
