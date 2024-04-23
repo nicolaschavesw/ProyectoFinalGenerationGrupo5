@@ -1,6 +1,7 @@
 using UnityEngine.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;
+using StarterAssets;
 
 public class ControlleGamePLayUi : MonoBehaviour
 {
@@ -14,12 +15,13 @@ public class ControlleGamePLayUi : MonoBehaviour
     public GameObject canvasPause;
     private bool juegoPausado = false;
 
-
+    private StarterAssetsInputs starterAssetsInputs;
 
     void Start()
     {
         canvasPause.SetActive(false);
-
+        starterAssetsInputs = GameObject.FindObjectOfType<StarterAssetsInputs>();
+        starterAssetsInputs.SetCursorState(true);
     
     }
 
@@ -44,6 +46,9 @@ public class ControlleGamePLayUi : MonoBehaviour
         canvasPause.SetActive(true);
         Time.timeScale = 0.0f;
         juegoPausado = true;
+        starterAssetsInputs.cursorInputForLook=false;
+        starterAssetsInputs.cursorLocked=false;
+        starterAssetsInputs.SetCursorState(false);
     }
 
     public void ReanudarJuego()
@@ -51,6 +56,9 @@ public class ControlleGamePLayUi : MonoBehaviour
         canvasPause.SetActive(false);
         Time.timeScale = 1.0f;
         juegoPausado = false;
+        starterAssetsInputs.cursorInputForLook=true;
+        starterAssetsInputs.cursorLocked=true;
+        starterAssetsInputs.SetCursorState(false);
     }
     
     public void ReiniciarJuego ()
