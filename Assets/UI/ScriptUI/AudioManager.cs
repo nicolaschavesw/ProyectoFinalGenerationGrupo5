@@ -9,7 +9,8 @@ public class AudioManager : MonoBehaviour
     public static AudioManager InstanceMusic;
     [SerializeField] private AudioMixer myMixer;
     [SerializeField] private Slider musicSlider;
-    [SerializeField] private Slider SFXSlider;
+    [SerializeField] public Slider SFXSlider;
+
     
 
     private void Awake()

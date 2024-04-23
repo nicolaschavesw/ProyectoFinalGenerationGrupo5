@@ -16,6 +16,7 @@ public class ControlleGamePLayUi : MonoBehaviour
     private bool juegoPausado = false;
 
     private StarterAssetsInputs starterAssetsInputs;
+    
 
     void Start()
     {

@@ -378,8 +378,10 @@ namespace StarterAssets
             {
                 if (FootstepAudioClips.Length > 0)
                 {
+                    FootstepAudioVolume=AudioManager.InstanceMusic.SFXSlider.value*100;
                     var index = Random.Range(0, FootstepAudioClips.Length);
                     AudioSource.PlayClipAtPoint(FootstepAudioClips[index], transform.TransformPoint(_controller.center), FootstepAudioVolume);
+                   
                 }
 
             }
