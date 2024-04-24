@@ -16,10 +16,11 @@ public class CambiarEscena : MonoBehaviour
     // {
     //     SceneManager.LoadScene("ScenaPersonajes");
     // }
-    // public void cambiarEscenaNivel1()
-    // {
-    //     SceneManager.LoadScene("Level Design");
-    // }
+     public void cambiarEscenaNivel1()
+        {
+            LevelLoader.LoadLelevel("Level Design");
+
+        }
     // public void cambiarEscenaNivelMenu()
     // {
     //     SceneManager.LoadScene("MainMenu");
