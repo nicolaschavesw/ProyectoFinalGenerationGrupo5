@@ -9,39 +9,58 @@ public class EnemyAI : MonoBehaviour
     public NavMeshAgent ai;
     public List<Transform> destinations;
     public Animator aiAnim;
-    public float walkSpeed, chaseSpeed, minIdleTime, maxIdleTime, idleTime, sightDistance, catchDistance, chaseTime, minChaseTime, maxChaseTime, jumpscareTime;
-    public bool walking, chasing;
+    public float walkSpeed, chaseSpeed, minIdleTime, maxIdleTime, idleTime, detectionDistance, catchDistance, searchDistance, minChaseTime, maxChaseTime, minSearchTime, maxSearchTime, jumpscareTime;
+    public bool walking, chasing, searching;
     public Transform player;
     Transform currentDest;
     Vector3 dest;
-    int randNum;
-    public int destinationAmount;
     public Vector3 rayCastOffset;
     public string deathScene;
+    public float aiDistance;
+    public GameObject hideText, stopHideText;
+    public AudioSource audioSource;
+    public AudioClip[] idleSounds;
+    public AudioClip[] footstepSounds;
+    public AudioClip[] runFootstepSounds;
 
     void Start()
     {
         walking = true;
-        randNum = Random.Range(0, destinations.Count);
-        currentDest = destinations[randNum];
+        currentDest = destinations[Random.Range(0, destinations.Count)];
+        audioSource = GetComponent<AudioSource>();
     }
     void Update()
     {
         Vector3 direction = (player.position - transform.position).normalized;
         RaycastHit hit;
-        Debug.DrawRay(transform.position + rayCastOffset, direction * sightDistance, Color.red); // Visualiza el rayo en el editor
-        if (Physics.Raycast(transform.position + rayCastOffset, direction, out hit, sightDistance))
+        aiDistance = Vector3.Distance(player.position, this.transform.position);
+        if (Physics.Raycast(transform.position + rayCastOffset, direction, out hit, detectionDistance))
         {
-            Debug.Log("Raycast hit: " + hit.collider.gameObject.name);
             if (hit.collider.gameObject.tag == "Player")
             {
                 walking = false;
                 StopCoroutine("stayIdle");
+                StopCoroutine("searchRoutine");
+                StartCoroutine("searchRoutine");
+                searching = true;
+            }
+        }
+        if (searching == true)
+        {
+            ai.speed = 0;
+            aiAnim.ResetTrigger("walk");
+            aiAnim.ResetTrigger("idle");
+            aiAnim.ResetTrigger("sprint");
+            aiAnim.SetTrigger("search");
+            if (aiDistance <= searchDistance)
+            {
+                StopCoroutine("stayIdle");
+                StopCoroutine("searchRoutine");
                 StopCoroutine("chaseRoutine");
                 StartCoroutine("chaseRoutine");
                 chasing = true;
+                searching = false;
             }
-
         }
         if (chasing == true)
         {
@@ -50,13 +69,16 @@ public class EnemyAI : MonoBehaviour
             ai.speed = chaseSpeed;
             aiAnim.ResetTrigger("walk");
             aiAnim.ResetTrigger("idle");
+            aiAnim.ResetTrigger("search");
             aiAnim.SetTrigger("sprint");
-            float distance = Vector3.Distance(player.position, ai.transform.position);
-            if (distance <= catchDistance)
+            if (aiDistance <= catchDistance)
             {
                 player.gameObject.SetActive(false);
                 aiAnim.ResetTrigger("walk");
                 aiAnim.ResetTrigger("idle");
+                aiAnim.ResetTrigger("search");
+                hideText.SetActive(false);
+                stopHideText.SetActive(false);
                 aiAnim.ResetTrigger("sprint");
                 aiAnim.SetTrigger("jumpscare");
                 StartCoroutine(deathRoutine());
@@ -70,11 +92,13 @@ public class EnemyAI : MonoBehaviour
             ai.speed = walkSpeed;
             aiAnim.ResetTrigger("sprint");
             aiAnim.ResetTrigger("idle");
+            aiAnim.ResetTrigger("search");
             aiAnim.SetTrigger("walk");
             if (ai.remainingDistance <= ai.stoppingDistance)
             {
                 aiAnim.ResetTrigger("sprint");
                 aiAnim.ResetTrigger("walk");
+                aiAnim.ResetTrigger("search");
                 aiAnim.SetTrigger("idle");
                 ai.speed = 0;
                 StopCoroutine("stayIdle");
@@ -83,27 +107,64 @@ public class EnemyAI : MonoBehaviour
             }
         }
     }
+    public void stopChase()
+    {
+        walking = true;
+        chasing = false;
+        StopCoroutine("chaseRoutine");
+        currentDest = destinations[Random.Range(0, destinations.Count)];
+    }
     IEnumerator stayIdle()
     {
         idleTime = Random.Range(minIdleTime, maxIdleTime);
-        yield return new WaitForSeconds(idleTime);
+        float soundPlayInterval = Random.Range(2f, 5f);
+        float timePassed = 0f;
+        while (timePassed < idleTime)
+        {
+            yield return new WaitForSeconds(soundPlayInterval);
+            AudioClip clipToPlay = idleSounds[Random.Range(0, idleSounds.Length)];
+            audioSource.PlayOneShot(clipToPlay);
+            timePassed += soundPlayInterval;
+            soundPlayInterval = Random.Range(2f, 5f);
+
+        }
         walking = true;
-        randNum = Random.Range(0, destinations.Count);
-        currentDest = destinations[randNum];
+        currentDest = destinations[Random.Range(0, destinations.Count)];
+    }
+    IEnumerator searchRoutine()
+    {
+        yield return new WaitForSeconds(Random.Range(minSearchTime, maxSearchTime));
+        searching = false;
+        walking = true;
+        currentDest = destinations[Random.Range(0, destinations.Count)];
     }
     IEnumerator chaseRoutine()
     {
-        chaseTime = Random.Range(minChaseTime, maxChaseTime);
-        yield return new WaitForSeconds(chaseTime);
-        walking = true;
-        chasing = false;
-        randNum = Random.Range(0, destinations.Count);
-        currentDest = destinations[randNum];
+        yield return new WaitForSeconds(Random.Range(minChaseTime, maxChaseTime));
+        stopChase();
     }
     IEnumerator deathRoutine()
     {
         yield return new WaitForSeconds(jumpscareTime);
         SceneManager.LoadScene(deathScene);
     }
-}
 
+    public void PlayFootstepSound()
+    {
+        if (footstepSounds.Length > 0 && audioSource != null)
+        {
+            AudioClip footstepSound = footstepSounds[Random.Range(0, footstepSounds.Length)];
+            audioSource.PlayOneShot(footstepSound);
+        }
+    }
+
+
+    public void PlayRunFootstepSound()
+    {
+        if (runFootstepSounds.Length > 0 && audioSource != null)
+        {
+            AudioClip runFootstepSound = runFootstepSounds[Random.Range(0, runFootstepSounds.Length)];
+            audioSource.PlayOneShot(runFootstepSound);
+        }
+    }
+}
