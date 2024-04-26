@@ -3,10 +3,11 @@ using UnityEngine;
 
 public class CambioPosicionPersonajes : MonoBehaviour
 {
-    
     public Transform posJugador, posInicial, posDestino;
     public Animator animaciones;
     public float velocidad;
+
+    private Coroutine movimientoCoroutine;
 
     void Start()
     {
@@ -15,7 +16,10 @@ public class CambioPosicionPersonajes : MonoBehaviour
 
     public void InicioTraslado()
     {
-        StartCoroutine(TrasladoSuave());
+        if (movimientoCoroutine == null)
+        {
+            movimientoCoroutine = StartCoroutine(TrasladoSuave());
+        }
     }
 
     private IEnumerator TrasladoSuave()
@@ -27,10 +31,18 @@ public class CambioPosicionPersonajes : MonoBehaviour
             yield return null;
         }
         animaciones.SetBool("PasarACaminar", false);
+        movimientoCoroutine = null;
     }
 
     public void RestablecerTraslado()
     {
+
+        if (movimientoCoroutine != null)
+        {
+            StopCoroutine(movimientoCoroutine);
+            movimientoCoroutine = null;
+        }
         posJugador.position = posInicial.position;
+        animaciones.SetBool("PasarACaminar", false);
     }
 }
