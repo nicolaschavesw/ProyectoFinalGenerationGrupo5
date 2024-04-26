@@ -2,6 +2,7 @@
 using UnityEngine;
 #if ENABLE_INPUT_SYSTEM 
 using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.XR;
 #endif
 
 /* Note: animations are called via the controller for both the character and capsule using animator null checks
@@ -33,7 +34,9 @@ namespace StarterAssets
 
         public AudioClip LandingAudioClip;
         public AudioClip[] FootstepAudioClips;
+        
         [Range(0, 2)] public float FootstepAudioVolume = 0.5f;
+
 
         [Space(10)]
         [Tooltip("The height the player can jump")]
@@ -378,7 +381,7 @@ namespace StarterAssets
             {
                 if (FootstepAudioClips.Length > 0)
                 {
-                    FootstepAudioVolume = AudioManager.InstanceMusic.SFXSlider.value * 2;
+                    //FootstepAudioVolume = AudioManager.InstanceMusic.SFXSlider.value * 2;
                     var index = Random.Range(0, FootstepAudioClips.Length);
                     AudioSource.PlayClipAtPoint(FootstepAudioClips[index], transform.TransformPoint(_controller.center), FootstepAudioVolume);
                    
@@ -394,5 +397,9 @@ namespace StarterAssets
                 AudioSource.PlayClipAtPoint(LandingAudioClip, transform.TransformPoint(_controller.center), FootstepAudioVolume);
             }
         }
+
+        
     }
+
+   
 }
