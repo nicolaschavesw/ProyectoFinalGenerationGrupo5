@@ -2707,33 +2707,12 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 916694701}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1325101277 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9094343312337782907, guid: adee466fb8191194080b1aa3fb853315,
+--- !u!65 &1325101283 stripped
+BoxCollider:
+  m_CorrespondingSourceObject: {fileID: 7571532293076500505, guid: adee466fb8191194080b1aa3fb853315,
     type: 3}
   m_PrefabInstance: {fileID: 1447438913}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &1325101283
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1325101277}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 1, y: 0.2505417, z: 4.1488876}
-  m_Center: {x: -0.9, y: 1.0940437, z: 14.826588}
 --- !u!1 &1375543128
 GameObject:
   m_ObjectHideFlags: 0
@@ -3687,11 +3666,6 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 6
       objectReference: {fileID: 0}
-    - target: {fileID: 6089734422097419691, guid: adee466fb8191194080b1aa3fb853315,
-        type: 3}
-      propertyPath: cursorInputForLook
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 6111331220539807211, guid: adee466fb8191194080b1aa3fb853315,
         type: 3}
       propertyPath: m_Layer
@@ -3701,11 +3675,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Layer
       value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 6185445263224139749, guid: adee466fb8191194080b1aa3fb853315,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6287382092831834507, guid: adee466fb8191194080b1aa3fb853315,
         type: 3}
@@ -4187,15 +4156,10 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 6
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 6185445263224139749, guid: adee466fb8191194080b1aa3fb853315, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 9094343312337782907, guid: adee466fb8191194080b1aa3fb853315,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1325101283}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: adee466fb8191194080b1aa3fb853315, type: 3}
 --- !u!1 &1469514530
 GameObject:
