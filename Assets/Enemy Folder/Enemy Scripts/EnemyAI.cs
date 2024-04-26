@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.SceneManagement;
@@ -28,9 +29,18 @@ public class EnemyAI : MonoBehaviour
         walking = true;
         currentDest = destinations[Random.Range(0, destinations.Count)];
         audioSource = GetComponent<AudioSource>();
+        findPlayer();
+        
+
     }
     void Update()
     {
+        if(player==null)
+        {
+            findPlayer();
+        }
+        //player =GameObject.FindGameObjectWithTag("Player").transform;
+
         Vector3 direction = (player.position - transform.position).normalized;
         RaycastHit hit;
         aiDistance = Vector3.Distance(player.position, this.transform.position);
@@ -106,6 +116,22 @@ public class EnemyAI : MonoBehaviour
                 walking = false;
             }
         }
+    }
+
+    public void findPlayer()
+    {
+        GameObject targetGameObject = GameObject.FindGameObjectWithTag("Player");
+        
+        if (targetGameObject != null)
+        {
+            player = targetGameObject.transform;
+            Debug.Log("Transform asignado con tag!");
+        }
+        else
+        {
+            Debug.Log("GameObject no encontrado con tag!");
+        }
+
     }
     public void stopChase()
     {
