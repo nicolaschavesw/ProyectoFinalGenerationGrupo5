@@ -3,6 +3,7 @@ using UnityEngine;
 #if ENABLE_INPUT_SYSTEM 
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.XR;
+using UnityEngine.Windows;
 #endif
 
 /* Note: animations are called via the controller for both the character and capsule using animator null checks
@@ -34,7 +35,8 @@ namespace StarterAssets
 
         public AudioClip LandingAudioClip;
         public AudioClip[] FootstepAudioClips;
-        
+
+
         [Range(0, 2)] public float FootstepAudioVolume = 0.5f;
 
 
@@ -80,6 +82,8 @@ namespace StarterAssets
 
         [Tooltip("For locking the camera position on all axis")]
         public bool LockCameraPosition = false;
+
+        public StarterAssetsInputs inputs;
 
         // cinemachine
         private float _cinemachineTargetYaw;
@@ -165,6 +169,7 @@ namespace StarterAssets
             JumpAndGravity();
             GroundedCheck();
             Move();
+
         }
 
         private void LateUpdate()
@@ -220,7 +225,7 @@ namespace StarterAssets
         private void Move()
         {
             // set target speed based on move speed, sprint speed and if sprint is pressed
-            float targetSpeed = _input.sprint ? SprintSpeed : MoveSpeed;
+            float targetSpeed = _input.sprint && !inputs.crouch ? SprintSpeed : MoveSpeed;
 
             // a simplistic acceleration and deceleration designed to be easy to remove, replace, or iterate upon
 
@@ -306,7 +311,7 @@ namespace StarterAssets
                 }
 
                 // Jump
-                if (_input.jump && _jumpTimeoutDelta <= 0.0f)
+                if (_input.jump && _jumpTimeoutDelta <= 0.0f && !inputs.crouch)
                 {
                     // the square root of H * -2 * G = how much velocity needed to reach desired height
                     _verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
@@ -379,16 +384,31 @@ namespace StarterAssets
         {
             if (animationEvent.animatorClipInfo.weight > 0.5f)
             {
-                if (FootstepAudioClips.Length > 0)
+                AudioClip[] crouchFootstepsAudioClips;
+                if (inputs.crouch)
+                {
+                    crouchFootstepsAudioClips = FootstepAudioClips;
+                }
+                else
+                {
+                    crouchFootstepsAudioClips = FootstepAudioClips;
+                }
+
+                if (crouchFootstepsAudioClips.Length > 0)
                 {
                     //FootstepAudioVolume = AudioManager.InstanceMusic.SFXSlider.value * 2;
-                    var index = Random.Range(0, FootstepAudioClips.Length);
-                    AudioSource.PlayClipAtPoint(FootstepAudioClips[index], transform.TransformPoint(_controller.center), FootstepAudioVolume);
-                   
+                    var index = Random.Range(0, crouchFootstepsAudioClips.Length);
+                    AudioSource.PlayClipAtPoint(crouchFootstepsAudioClips[index], transform.TransformPoint(_controller.center), FootstepAudioVolume);
+
                 }
 
             }
+
+
         }
+
+
+
 
         private void OnLand(AnimationEvent animationEvent)
         {
@@ -398,8 +418,8 @@ namespace StarterAssets
             }
         }
 
-        
+
     }
 
-   
+
 }

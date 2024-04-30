@@ -13,12 +13,14 @@ public class HidingPlace : MonoBehaviour
     public Collider maincameraCollider;
     public AudioSource hideSound, stopHideSound;
     public RoomDetector detector;
+    
 
     void Start()
     {
         interactable = false;
         hiding = false;
     }
+    
     void OnTriggerStay(Collider other)
     {
         if (other.CompareTag("MainCamera"))
@@ -45,7 +47,11 @@ public class HidingPlace : MonoBehaviour
     }
     void Update()
     {
-        if(interactable == true)
+        if (monsterScript.IsDeathRoutineRunning())
+        {
+            return;
+        }
+        if (interactable == true)
         {
             if (Input.GetKeyDown(KeyCode.E))
             {

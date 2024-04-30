@@ -13,8 +13,9 @@ namespace StarterAssets
 		public bool jump;
 		public bool sprint;
 		public bool crouch;
+		
 
-		[Header("Movement Settings")]
+        [Header("Movement Settings")]
 		public bool analogMovement;
 
 		[Header("Mouse Cursor Settings")]
@@ -35,19 +36,25 @@ namespace StarterAssets
 			}
 		}
 
-		public void OnJump(InputValue value)
-		{
-			JumpInput(value.isPressed);
-		}
+        public void OnJump(InputValue value)
+        {
+            if (!crouch)
+            {
+                JumpInput(value.isPressed);
+            }
+        }
 
-		public void OnSprint(InputValue value)
+        public void OnSprint(InputValue value)
 		{
 			SprintInput(value.isPressed);
 		}
 
         public void OnCrouch(InputValue value)
         {
-            CrouchInput(value.isPressed);
+            if (value.isPressed)
+            {
+                crouch = !crouch;
+            }
         }
 #endif
 

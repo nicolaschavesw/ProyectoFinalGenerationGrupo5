@@ -13,6 +13,7 @@ public class ThirdPersonCrouch : MonoBehaviour
 
     private Animator animator;
 
+
     private void Awake()
     {
         starterAssetsInputs = GetComponent<StarterAssetsInputs>();
@@ -24,13 +25,12 @@ public class ThirdPersonCrouch : MonoBehaviour
         if (starterAssetsInputs.crouch)
         {
             crouchVirtualCamera.gameObject.SetActive(true);
-            animator.SetLayerWeight(1, Mathf.Lerp(animator.GetLayerWeight(1),1f, Time.deltaTime * 10.0f));
+            animator.SetBool("IsCrouching", true);
         }
         else
         {
             crouchVirtualCamera.gameObject.SetActive(false);
-            animator.SetLayerWeight(1, Mathf.Lerp(animator.GetLayerWeight(1), 0f, Time.deltaTime * 10.0f));
-
+            animator.SetBool("IsCrouching", false);
         }
     }
 }
