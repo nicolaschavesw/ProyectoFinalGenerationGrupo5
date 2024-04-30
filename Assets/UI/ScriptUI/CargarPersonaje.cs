@@ -4,30 +4,36 @@ using UnityEngine;
 
 public class CargarPersonaje : MonoBehaviour
 {
-    public GameObject  chicoPersonaje;
-    public GameObject  chicaPersonaje;
+     public GameObject maleCharacter;
+     public GameObject femaleCharacter;
 
-    public bool chico;
-    public bool chica;
+     public bool male;
+     public bool female;
 
+     void Start()
+     {
+         maleCharacter.SetActive(false);
+         femaleCharacter.SetActive(false);
+     }
+     private void Update()
+     {
 
-    private void Update() {
+          male = PlayerPrefs.GetInt("playerUnoSelect") == 1;
+          female = PlayerPrefs.GetInt("playerDosSelect") == 1;
+          if (male == true)
+          {
+               maleCharacter.SetActive(true);
+               femaleCharacter.SetActive(false);
 
-       chico =PlayerPrefs.GetInt("playerUnoSelect")==1;
-       chica =PlayerPrefs.GetInt("playerDosSelect")==1;
-       if(chico==true)
-       {
-            chicoPersonaje.SetActive(true);
-            Destroy(chicaPersonaje);
-       }
-       if(chica==true)
-       {
-            chicaPersonaje.SetActive(true);
-            Destroy(chicoPersonaje);
+          }
+          if (female == true)
+          {
+               femaleCharacter.SetActive(true);
+               maleCharacter.SetActive(false);
 
-       }
-        
-    }
+          }
+
+     }
 
 
 
