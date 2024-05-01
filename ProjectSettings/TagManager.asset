@@ -8,10 +8,8 @@ TagManager:
   - CinemachineTarget
   - Stop Hide Text
   - Hide Text
-  - slot
-  - inventario_con
-  - inventario
-  - GeneralEvent
+  - ScaryTrigger
+  - NormalTrigger
   layers:
   - Default
   - TransparentFX
