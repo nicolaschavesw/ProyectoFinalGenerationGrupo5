@@ -8,6 +8,8 @@ TagManager:
   - CinemachineTarget
   - Stop Hide Text
   - Hide Text
+  - ScaryTrigger
+  - NormalTrigger
   layers:
   - Default
   - TransparentFX
