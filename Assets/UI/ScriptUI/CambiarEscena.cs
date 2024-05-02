@@ -35,4 +35,8 @@ public class CambiarEscena : MonoBehaviour
     {
         SceneManager.LoadScene(nombreEscena);
     }
+    public void SalirDelJuego()
+    {
+        Application.Quit();
+    }
 }
