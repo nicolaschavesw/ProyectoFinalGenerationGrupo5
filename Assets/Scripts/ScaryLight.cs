@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ScaryLight : MonoBehaviour
 {
-    public List<Light> pointLights; // Asegúrate de asignar estas luces en el inspector de Unity
+    public List<Light> pointLights; // Asegï¿½rate de asignar estas luces en el inspector de Unity
     public Color horrorColor = Color.red; // Puedes cambiar esto al color que quieras
     private List<Color> initialColors = new List<Color>();
     private bool isFlickering = false;
@@ -18,9 +18,9 @@ public class ScaryLight : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerStay(Collider other)
     {
-        if (other.gameObject.CompareTag("ScaryTrigger"))
+        if (other.gameObject.CompareTag("Player"))
         {
             // Cambiamos el color de las luces y comenzamos a parpadear
             for (int i = 0; i < pointLights.Count; i++)
@@ -29,15 +29,17 @@ public class ScaryLight : MonoBehaviour
             }
             isFlickering = true;
             StartCoroutine(FlickerLights());
-        }
-        else if (other.gameObject.CompareTag("NormalTrigger"))
+        }        
+    }
+    private void OnTriggerExit(Collider other) {
+        if (other.gameObject.CompareTag("Player"))
         {
-            // Restauramos el color de las luces y dejamos de parpadear
-            for (int i = 0; i < pointLights.Count; i++)
+             for (int i = 0; i < pointLights.Count; i++)
             {
                 pointLights[i].color = initialColors[i];
             }
             isFlickering = false;
+            StopCoroutine(FlickerLights());
         }
     }
 

@@ -25,6 +25,8 @@ public class HidingPlace : MonoBehaviour
     {
         if (other.CompareTag("MainCamera"))
         {
+            maincameraCollider = other.GetComponent<BoxCollider>();
+            normalPlayer = other.transform.parent.GetChild(0).gameObject;
             if (detector.inTrigger == true)
             {
                 hideText.SetActive(true);

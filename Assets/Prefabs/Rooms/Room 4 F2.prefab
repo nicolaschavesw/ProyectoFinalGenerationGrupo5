@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 8577048188027357635}
   - component: {fileID: 7165356146050342474}
   - component: {fileID: 4030601531045207251}
-  - component: {fileID: 2964339898827519054}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -85,7 +84,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -119,20 +118,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!114 &2964339898827519054
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 122939197810175011}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39ce5694b32d6f84aa63a585ef3800d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pointLights: []
-  horrorColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &135275440823358120
 GameObject:
   m_ObjectHideFlags: 0
@@ -142,6 +127,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9066547030648026544}
+  - component: {fileID: 2778867334017356586}
+  - component: {fileID: 4582281654773126687}
   m_Layer: 0
   m_Name: Lights
   m_TagString: Untagged
@@ -169,6 +156,46 @@ Transform:
   - {fileID: 6377762622908310712}
   m_Father: {fileID: 7230224023377799613}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &2778867334017356586
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 135275440823358120}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 54.505966, y: 21.954185, z: 55.0505}
+  m_Center: {x: -24.634865, y: 9.172413, z: -22.22063}
+--- !u!114 &4582281654773126687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 135275440823358120}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39ce5694b32d6f84aa63a585ef3800d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointLights:
+  - {fileID: 6438384864180789532}
+  - {fileID: 8796932324242350989}
+  - {fileID: 1379651558032915219}
+  - {fileID: 3084784699505411615}
+  - {fileID: 7165356146050342474}
+  horrorColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &146676057111564981
 GameObject:
   m_ObjectHideFlags: 0
@@ -1378,7 +1405,6 @@ GameObject:
   - component: {fileID: 7982612508627717519}
   - component: {fileID: 1379651558032915219}
   - component: {fileID: 1672425077363160803}
-  - component: {fileID: 485082401120582968}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -1452,7 +1478,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -1486,20 +1512,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!114 &485082401120582968
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3087986169074435498}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39ce5694b32d6f84aa63a585ef3800d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pointLights: []
-  horrorColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &3379880470376653634
 GameObject:
   m_ObjectHideFlags: 0
@@ -2383,7 +2395,6 @@ GameObject:
   - component: {fileID: 1327830923336081951}
   - component: {fileID: 3084784699505411615}
   - component: {fileID: 7474064542496197096}
-  - component: {fileID: 8291684530818858789}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -2457,7 +2468,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -2491,20 +2502,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!114 &8291684530818858789
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5633439427978499894}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39ce5694b32d6f84aa63a585ef3800d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pointLights: []
-  horrorColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &5920577389580968164
 GameObject:
   m_ObjectHideFlags: 0
@@ -2669,7 +2666,6 @@ GameObject:
   - component: {fileID: 740640330042580300}
   - component: {fileID: 8796932324242350989}
   - component: {fileID: 804183227234585142}
-  - component: {fileID: 3798375164453033606}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -2743,7 +2739,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -2777,20 +2773,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!114 &3798375164453033606
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6475119211888961351}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39ce5694b32d6f84aa63a585ef3800d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pointLights: []
-  horrorColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &6713119257133570145
 GameObject:
   m_ObjectHideFlags: 0
@@ -2835,7 +2817,6 @@ GameObject:
   - component: {fileID: 2138405422501127261}
   - component: {fileID: 6438384864180789532}
   - component: {fileID: 8090149352756685216}
-  - component: {fileID: 1927903811767725960}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -2909,7 +2890,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -2943,20 +2924,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!114 &1927903811767725960
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6822345207621017014}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39ce5694b32d6f84aa63a585ef3800d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pointLights: []
-  horrorColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &7674408209359272269
 GameObject:
   m_ObjectHideFlags: 0

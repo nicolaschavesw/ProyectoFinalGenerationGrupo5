@@ -45,6 +45,11 @@ public class EnemyAI : MonoBehaviour
 
     private void Update()
     {
+        if(inputs == null)
+        {
+            inputs = FindAnyObjectByType<StarterAssetsInputs>();
+            player = inputs.transform;
+        }
         detectionDistance = inputs.crouch ? originalDetectionDistance / 2 : originalDetectionDistance;
         Vector3 direction = (player.position - transform.position).normalized;
         RaycastHit hit;
