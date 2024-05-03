@@ -6,31 +6,33 @@ public class HidingPlace : MonoBehaviour
 {
     public GameObject hideText, stopHideText;
     public GameObject normalPlayer, hidingPlayer;
-    public EnemyAI monsterScript;
-    public Transform monsterTransform;
+    public List<EnemyAI> monsterScripts;
+    public List<Transform> monsterTransforms;
     bool interactable, hiding;
     public float loseDistance;
     public Collider maincameraCollider;
     public AudioSource hideSound, stopHideSound;
     public RoomDetector detector;
-    
+
 
     void Start()
     {
         interactable = false;
         hiding = false;
     }
-    
+
     void OnTriggerStay(Collider other)
     {
         if (other.CompareTag("MainCamera"))
         {
-            if(detector.inTrigger == true)
+            maincameraCollider = other.GetComponent<BoxCollider>();
+            normalPlayer = other.transform.parent.GetChild(0).gameObject;
+            if (detector.inTrigger == true)
             {
                 hideText.SetActive(true);
                 interactable = true;
             }
-            else if(detector.inTrigger == false)
+            else if (detector.inTrigger == false)
             {
                 hideText.SetActive(false);
                 interactable = false;
@@ -47,42 +49,48 @@ public class HidingPlace : MonoBehaviour
     }
     void Update()
     {
-        if (monsterScript.IsDeathRoutineRunning())
+        foreach (var monsterScript in monsterScripts)
         {
-            return;
-        }
-        if (interactable == true)
-        {
-            if (Input.GetKeyDown(KeyCode.E))
+            if (monsterScript.IsDeathRoutineRunning())
             {
-                maincameraCollider.enabled = false;
-                hideText.SetActive(false);
-                hideSound.Play();
-                hidingPlayer.SetActive(true);
-                float distance = Vector3.Distance(monsterTransform.position, normalPlayer.transform.position);
-                if(distance > loseDistance)
-                {
-                    if(monsterScript.chasing == true)
-                    {
-                        monsterScript.stopChase();
-                    }
-                }
-                stopHideText.SetActive(true);
-                hiding = true;
-                normalPlayer.SetActive(false);
-                interactable = false;
+                continue;
             }
-        }
-        if(hiding == true)
-        {
-            if (Input.GetKeyDown(KeyCode.Q))
+            if (interactable == true)
             {
-                maincameraCollider.enabled = true;
-                stopHideText.SetActive(false);
-                stopHideSound.Play();
-                normalPlayer.SetActive(true);
-                hidingPlayer.SetActive(false);
-                hiding = false;
+                if (Input.GetKeyDown(KeyCode.E))
+                {
+                    maincameraCollider.enabled = false;
+                    hideText.SetActive(false);
+                    hideSound.Play();
+                    hidingPlayer.SetActive(true);
+                    foreach (var monsterTransform in monsterTransforms)
+                    {
+                        float distance = Vector3.Distance(monsterTransform.position, normalPlayer.transform.position);
+                        if (distance > loseDistance)
+                        {
+                            if (monsterScript.chasing == true)
+                            {
+                                monsterScript.stopChase();
+                            }
+                        }
+                    }
+                    stopHideText.SetActive(true);
+                    hiding = true;
+                    normalPlayer.SetActive(false);
+                    interactable = false;
+                }
+            }
+            if (hiding == true)
+            {
+                if (Input.GetKeyDown(KeyCode.Q))
+                {
+                    maincameraCollider.enabled = true;
+                    stopHideText.SetActive(false);
+                    stopHideSound.Play();
+                    normalPlayer.SetActive(true);
+                    hidingPlayer.SetActive(false);
+                    hiding = false;
+                }
             }
         }
     }

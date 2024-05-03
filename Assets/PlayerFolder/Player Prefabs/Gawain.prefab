@@ -8579,7 +8579,7 @@ GameObject:
   - component: {fileID: 6315301074296032901}
   - component: {fileID: 8125692695399838570}
   m_Layer: 6
-  m_Name: MaleMainCamera
+  m_Name: MainCamera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15750,7 +15750,6 @@ GameObject:
   - component: {fileID: 6153271230981557597}
   - component: {fileID: 4514217248765500182}
   - component: {fileID: 7813946664767470689}
-  - component: {fileID: 1017784191858369505}
   m_Layer: 6
   m_Name: PlayerArmatureMale
   m_TagString: Player
@@ -16017,20 +16016,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   crouchVirtualCamera: {fileID: 605786578072310122}
---- !u!114 &1017784191858369505
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6917965958179354485}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39ce5694b32d6f84aa63a585ef3800d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pointLights: []
-  horrorColor: {r: 1, g: 0, b: 0, a: 1}
 --- !u!1 &7064787387237961638
 GameObject:
   m_ObjectHideFlags: 0
@@ -16041,12 +16026,12 @@ GameObject:
   m_Component:
   - component: {fileID: 8019378023708884827}
   m_Layer: 0
-  m_Name: Lantern_M
-  m_TagString: Untagged
+  m_Name: Lantern
+  m_TagString: Lantern
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &8019378023708884827
 Transform:
   m_ObjectHideFlags: 0

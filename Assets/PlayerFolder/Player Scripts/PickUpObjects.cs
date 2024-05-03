@@ -9,7 +9,7 @@ public class PickUpObjects : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        flashLightOnPlayer.SetActive(false);
+        pickUPText.SetActive(false);
         pickUPText.SetActive(false);
     }
 
@@ -23,6 +23,7 @@ public class PickUpObjects : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            flashLightOnPlayer = other.transform.parent.GetChild(4).GetChild(0).gameObject;
             pickUPText.SetActive(true);
             if (Input.GetKey(KeyCode.E))
             {

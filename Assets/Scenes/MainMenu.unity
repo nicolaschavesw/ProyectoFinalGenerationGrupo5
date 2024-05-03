@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571328, b: 0.3069217, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4854,7 +4854,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Volver
+  m_text: 'Back
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1623183200f20f6469568cd455ac3cd7, type: 2}
   m_sharedMaterial: {fileID: -1321058560615747107, guid: 1623183200f20f6469568cd455ac3cd7,
@@ -5000,7 +5002,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Volver
+  m_text: Back
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1623183200f20f6469568cd455ac3cd7, type: 2}
   m_sharedMaterial: {fileID: -1321058560615747107, guid: 1623183200f20f6469568cd455ac3cd7,
@@ -5366,7 +5368,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Controles
+  m_text: Controls
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1623183200f20f6469568cd455ac3cd7, type: 2}
   m_sharedMaterial: {fileID: -1321058560615747107, guid: 1623183200f20f6469568cd455ac3cd7,
@@ -6464,7 +6466,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Volver
+  m_text: Back
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1623183200f20f6469568cd455ac3cd7, type: 2}
   m_sharedMaterial: {fileID: -1321058560615747107, guid: 1623183200f20f6469568cd455ac3cd7,
@@ -7419,7 +7421,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Volver
+  m_text: Back
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1623183200f20f6469568cd455ac3cd7, type: 2}
   m_sharedMaterial: {fileID: -1321058560615747107, guid: 1623183200f20f6469568cd455ac3cd7,
@@ -8437,7 +8439,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Configuracion Audio
+  m_text: Audio Settings
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1623183200f20f6469568cd455ac3cd7, type: 2}
   m_sharedMaterial: {fileID: -1321058560615747107, guid: 1623183200f20f6469568cd455ac3cd7,
@@ -8554,7 +8556,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Musica
+  m_text: Music
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1623183200f20f6469568cd455ac3cd7, type: 2}
   m_sharedMaterial: {fileID: -1321058560615747107, guid: 1623183200f20f6469568cd455ac3cd7,
@@ -10423,7 +10425,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Creditos
+  m_text: Credits
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1623183200f20f6469568cd455ac3cd7, type: 2}
   m_sharedMaterial: {fileID: -1321058560615747107, guid: 1623183200f20f6469568cd455ac3cd7,
