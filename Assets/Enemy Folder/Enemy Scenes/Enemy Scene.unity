@@ -6256,6 +6256,24 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fced3faff6cdbb49b6ac4fe7a7ae644, type: 3}
+--- !u!114 &996845380 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3418715206099875563, guid: 3fced3faff6cdbb49b6ac4fe7a7ae644,
+    type: 3}
+  m_PrefabInstance: {fileID: 996845379}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d44cdfa856d58499ffbdf7a13eca0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &996845381 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6886403582200016793, guid: 3fced3faff6cdbb49b6ac4fe7a7ae644,
+    type: 3}
+  m_PrefabInstance: {fileID: 996845379}
+  m_PrefabAsset: {fileID: 0}
 --- !u!43 &1028441482
 Mesh:
   m_ObjectHideFlags: 0
@@ -13929,6 +13947,46 @@ PrefabInstance:
     - target: {fileID: 393445655420385050, guid: b310e1bac1577244a90ff2294af9ac9d,
         type: 3}
       propertyPath: maincameraCollider
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 393445655420385050, guid: b310e1bac1577244a90ff2294af9ac9d,
+        type: 3}
+      propertyPath: monsterScripts.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 393445655420385050, guid: b310e1bac1577244a90ff2294af9ac9d,
+        type: 3}
+      propertyPath: monsterScripts.Array.data[0]
+      value: 
+      objectReference: {fileID: 996845380}
+    - target: {fileID: 393445655420385050, guid: b310e1bac1577244a90ff2294af9ac9d,
+        type: 3}
+      propertyPath: monsterScripts.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 393445655420385050, guid: b310e1bac1577244a90ff2294af9ac9d,
+        type: 3}
+      propertyPath: monsterScripts.Array.data[2]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 393445655420385050, guid: b310e1bac1577244a90ff2294af9ac9d,
+        type: 3}
+      propertyPath: monsterTransforms.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 393445655420385050, guid: b310e1bac1577244a90ff2294af9ac9d,
+        type: 3}
+      propertyPath: monsterTransforms.Array.data[0]
+      value: 
+      objectReference: {fileID: 996845381}
+    - target: {fileID: 393445655420385050, guid: b310e1bac1577244a90ff2294af9ac9d,
+        type: 3}
+      propertyPath: monsterTransforms.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 393445655420385050, guid: b310e1bac1577244a90ff2294af9ac9d,
+        type: 3}
+      propertyPath: monsterTransforms.Array.data[2]
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1714278113331215871, guid: b310e1bac1577244a90ff2294af9ac9d,
