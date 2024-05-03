@@ -17,7 +17,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8577048188027357635
 Transform:
@@ -147,7 +147,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9066547030648026544
 Transform:
@@ -185,7 +185,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6949790793169740813
 Transform:
@@ -268,7 +268,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7239352454816183130
 Transform:
@@ -349,7 +349,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1560377614277028824
 Transform:
@@ -388,7 +388,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &274106287876205671
 Transform:
@@ -494,7 +494,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5938181334993273097
 Transform:
@@ -597,7 +597,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2810603691143946113
 Transform:
@@ -633,7 +633,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6041173651244794950
 Transform:
@@ -668,7 +668,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3688373169100244580
 Transform:
@@ -704,7 +704,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5383388477051492406
 Transform:
@@ -740,7 +740,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7463785490285829520
 Transform:
@@ -776,7 +776,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8035606956294790246
 Transform:
@@ -814,7 +814,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6180210960911192300
 Transform:
@@ -895,7 +895,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2082526639086134848
 Transform:
@@ -931,7 +931,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &838193564865299769
 Transform:
@@ -969,7 +969,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4688207212135964925
 Transform:
@@ -1052,7 +1052,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &283129562487611849
 Transform:
@@ -1134,7 +1134,7 @@ GameObject:
   m_TagString: ScaryTrigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5306446580015888107
 Transform:
@@ -1186,7 +1186,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1942748714080293574
 Transform:
@@ -1225,7 +1225,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2913555661059837226
 Transform:
@@ -1329,7 +1329,7 @@ GameObject:
   m_TagString: NormalTrigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8091453738234751428
 Transform:
@@ -1384,7 +1384,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7982612508627717519
 Transform:
@@ -1516,7 +1516,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1557339571745993638
 Transform:
@@ -1599,7 +1599,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2383536043757498348
 Transform:
@@ -1680,7 +1680,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1993703004346826461
 Transform:
@@ -1716,7 +1716,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5951068747179932790
 Transform:
@@ -1754,7 +1754,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9110003866529699655
 Transform:
@@ -1835,7 +1835,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5480197990350535368
 Transform:
@@ -1873,7 +1873,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1573237602129453676
 Transform:
@@ -1954,7 +1954,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2584280203894335235
 Transform:
@@ -1990,7 +1990,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5196643723742666137
 Transform:
@@ -2030,7 +2030,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8332819756472577169
 Transform:
@@ -2133,7 +2133,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8570953561722043797
 Transform:
@@ -2169,7 +2169,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7699037552583700866
 Transform:
@@ -2205,7 +2205,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5058770966442996766
 Transform:
@@ -2314,7 +2314,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5030385136156485848
 Transform:
@@ -2350,7 +2350,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1718987281822549396
 Transform:
@@ -2389,7 +2389,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1327830923336081951
 Transform:
@@ -2519,7 +2519,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7565478555155249454
 Transform:
@@ -2557,7 +2557,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7594262789407714103
 Transform:
@@ -2638,7 +2638,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7230224023377799613
 Transform:
@@ -2675,7 +2675,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &740640330042580300
 Transform:
@@ -2805,7 +2805,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5062217198806253771
 Transform:
@@ -2841,7 +2841,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2138405422501127261
 Transform:
@@ -2971,7 +2971,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4703604791105097922
 Transform:
@@ -3007,7 +3007,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &328046130868252990
 Transform:
@@ -3043,7 +3043,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2485804845645453264
 Transform:
@@ -3079,7 +3079,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2904039458738425714
 Transform:
@@ -3115,7 +3115,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6561033225457682789
 Transform:
@@ -3153,7 +3153,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2310451251542326561
 Transform:
@@ -3236,7 +3236,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &837705749801555399
 Transform:
@@ -3386,6 +3386,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar1
       objectReference: {fileID: 0}
+    - target: {fileID: 7021467218467495116, guid: 90056d289ec8ac64985f91c79e042af3,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 7021467218469487116, guid: 90056d289ec8ac64985f91c79e042af3,
         type: 3}
       propertyPath: m_Enabled
@@ -3410,9 +3415,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 6377762622908310712}
     m_Modifications:
+    - target: {fileID: 100000, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_Name
       value: Latern1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3503,6 +3524,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -3577,6 +3602,10 @@ PrefabInstance:
     - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
@@ -3653,6 +3682,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -3728,6 +3761,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -3783,7 +3820,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6217042627623115966}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &352772566491677283 stripped
 Transform:
@@ -3791,6 +3832,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 354106716411319873}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &355438815103441275 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 354106716411319873}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &6217042627623115966
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 355438815103441275}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.068001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &382646974452420658
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3802,6 +3865,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -3862,7 +3929,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4211635632825469730}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &378630430728826454 stripped
 Transform:
@@ -3870,6 +3941,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 382646974452420658}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &380994909685077348 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 382646974452420658}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &4211635632825469730
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 380994909685077348}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &423384544688770093
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3881,6 +3974,26 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 41c82b48d494599498c294206d7c4451, type: 3}
       propertyPath: m_Name
       value: dfk_flag_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 41c82b48d494599498c294206d7c4451, type: 3}
       propertyPath: m_LocalScale.x
@@ -3961,6 +4074,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -4016,8 +4133,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7418082262771004748}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+--- !u!1 &428632457044840403 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 429532345360105705}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &7418082262771004748
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 428632457044840403}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.068001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &430453912399598795 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8,
@@ -4035,6 +4178,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_Name
       value: fi_vil_container_bag01_01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_LocalScale.x
@@ -4092,8 +4239,34 @@ PrefabInstance:
     - {fileID: 6041368302672038484, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3114435866480871931}
   m_SourcePrefab: {fileID: 100100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+--- !u!1 &460445520147537725 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+    type: 3}
+  m_PrefabInstance: {fileID: 460445520147634589}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &3114435866480871931
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 460445520147537725}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.22900002, y: 0.23400001, z: 0.21100001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.021000002, y: 0.23400001, z: -0.014}
+  m_TimeToStationary: 0.5
 --- !u!4 &460445520148022045 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1,
@@ -4111,6 +4284,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: cf7753741b842b048b3302dbed02916b, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_scrap10
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cf7753741b842b048b3302dbed02916b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cf7753741b842b048b3302dbed02916b, type: 3}
       propertyPath: m_LocalScale.x
@@ -4191,6 +4368,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -4265,6 +4446,26 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 41c82b48d494599498c294206d7c4451, type: 3}
       propertyPath: m_Name
       value: dfk_flag_02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 41c82b48d494599498c294206d7c4451, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 41c82b48d494599498c294206d7c4451, type: 3}
       propertyPath: m_LocalScale.x
@@ -4345,6 +4546,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_forge_toolbox_full
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 045fe92ea9b31a8479f6c266bfe4adba, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 045fe92ea9b31a8479f6c266bfe4adba, type: 3}
       propertyPath: m_LocalScale.x
       value: 5
@@ -4424,6 +4629,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -4498,6 +4707,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -4574,6 +4787,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -4649,6 +4866,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -4704,8 +4925,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2690672918742567167}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+--- !u!1 &775766841923353873 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 774861318589559339}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &2690672918742567167
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 775766841923353873}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.001, y: 11.069, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &779011317653775881 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8,
@@ -4724,6 +4971,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -4779,7 +5030,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3609199666602891719}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &896467205205450325 stripped
 Transform:
@@ -4787,6 +5042,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 900617419292494455}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &899432757171832141 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 900617419292494455}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &3609199666602891719
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 899432757171832141}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.068001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &946840104665127498
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4798,6 +5075,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_Name
       value: fi_vil_container_bag01_01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_LocalScale.x
@@ -4875,6 +5156,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_forge_chain1_long (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalScale.x
       value: 7
@@ -4897,7 +5182,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -46.070015
+      value: -47.57
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4953,6 +5238,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -5029,6 +5318,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -5103,6 +5396,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_Name
       value: LampPost_wall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_LocalScale.x
@@ -5294,6 +5591,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: wgwnfde_lod0 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d52406652a4f0084792f46afca89410d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5316,6 +5618,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 9bb05e3f176bd004cab3872f9d92476c, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_weaponrack4
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9bb05e3f176bd004cab3872f9d92476c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9bb05e3f176bd004cab3872f9d92476c, type: 3}
       propertyPath: m_LocalScale.x
@@ -5396,6 +5702,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -5451,7 +5761,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 870878172834786474}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &1063463692186283643 stripped
 Transform:
@@ -5459,6 +5773,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1066623581295901273}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1065567403164104035 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 1066623581295901273}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &870878172834786474
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065567403164104035}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.001, y: 11.069, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &1094723527923192396
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5470,6 +5806,10 @@ PrefabInstance:
     - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
@@ -5546,6 +5886,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_container_bag01_01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_LocalScale.x
       value: 4.842849
@@ -5602,8 +5946,34 @@ PrefabInstance:
     - {fileID: 6041368302672038484, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3662495504125095575}
   m_SourcePrefab: {fileID: 100100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+--- !u!1 &1126375973658446348 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1126375973658545324}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &3662495504125095575
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126375973658446348}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.22900002, y: 0.23400001, z: 0.21100001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.021000002, y: 0.23400001, z: -0.014}
+  m_TimeToStationary: 0.5
 --- !u!4 &1126375973658678828 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1,
@@ -5618,9 +5988,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4638367463862715749}
     m_Modifications:
+    - target: {fileID: 100000, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_Name
       value: Latern1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5710,6 +6096,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -5852,6 +6242,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7021467218467495116, guid: 90056d289ec8ac64985f91c79e042af3,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5874,6 +6269,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 72b369626c991784a901d44918508a5e, type: 3}
       propertyPath: m_Name
       value: fi_vil_container_crate_small_empty03 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 72b369626c991784a901d44918508a5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 72b369626c991784a901d44918508a5e, type: 3}
       propertyPath: m_LocalScale.x
@@ -5934,8 +6333,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 72b369626c991784a901d44918508a5e,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3658930846190433723}
   m_SourcePrefab: {fileID: 100100000, guid: 72b369626c991784a901d44918508a5e, type: 3}
+--- !u!1 &1532515307001807220 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 72b369626c991784a901d44918508a5e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1532515307001776084}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &3658930846190433723
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532515307001807220}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.393, y: 0.25, z: 0.33600003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.143, y: 0.25, z: 0.076000005}
+  m_TimeToStationary: 0.5
 --- !u!4 &1532515307002174804 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 72b369626c991784a901d44918508a5e,
@@ -5953,6 +6378,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -6029,6 +6458,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -6103,6 +6536,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -6179,6 +6616,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -6234,7 +6675,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9169912970560185289}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &1888119494303630264 stripped
 Transform:
@@ -6242,6 +6687,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1890584148461934490}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1889396187818645664 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 1890584148461934490}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &9169912970560185289
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889396187818645664}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.001, y: 11.068001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &2019553809281436212
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6253,6 +6720,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -6329,6 +6800,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_forge_chain1_long (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalScale.x
       value: 7
@@ -6351,7 +6826,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -46.070015
+      value: -47.57
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6407,6 +6882,10 @@ PrefabInstance:
     - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
@@ -6483,6 +6962,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -6558,6 +7041,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -6613,7 +7100,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6462976676245893629}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
 --- !u!4 &2323999429939031271 stripped
 Transform:
@@ -6621,6 +7112,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2328813789666289333}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2329510809932206925 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 2328813789666289333}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &6462976676245893629
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2329510809932206925}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.352, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &2338226823708067890
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6629,9 +7142,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1022429280622313257}
     m_Modifications:
+    - target: {fileID: 100000, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_Name
       value: Latern1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6722,6 +7251,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -6796,6 +7329,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -6872,6 +7409,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -6946,6 +7487,10 @@ PrefabInstance:
     - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
@@ -7022,6 +7567,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_forge_workbensh_large1
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0d90dbec6a767294d956856b41dbbd5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0d90dbec6a767294d956856b41dbbd5e, type: 3}
       propertyPath: m_LocalScale.x
       value: 7
@@ -7086,6 +7635,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 5545978343816974140}
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 0d90dbec6a767294d956856b41dbbd5e,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7044586202203603906}
   m_SourcePrefab: {fileID: 100100000, guid: 0d90dbec6a767294d956856b41dbbd5e, type: 3}
 --- !u!1 &2677252842596149482 stripped
 GameObject:
@@ -7114,6 +7667,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.0000023, y: 0.9352296, z: 1.9109648}
   m_Center: {x: -0.000014230608, y: 0.4676132, z: 0.013339519}
+--- !u!208 &7044586202203603906
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2677252842596149482}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.5, y: 0.46800002, z: 0.95500004}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.46800002, z: 0.013}
+  m_TimeToStationary: 0.5
 --- !u!4 &2677252842596512970 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 0d90dbec6a767294d956856b41dbbd5e,
@@ -7131,6 +7700,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -7207,6 +7780,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -7266,8 +7843,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1589877786750550422}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+--- !u!1 &2771689956203247276 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 2770271136600863738}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &1589877786750550422
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2771689956203247276}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &2774146797348539806 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638,
@@ -7285,6 +7888,10 @@ PrefabInstance:
     - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
@@ -7341,7 +7948,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 862368380182477170}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
 --- !u!4 &2786464224531619830 stripped
 Transform:
@@ -7349,6 +7960,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2790710682346345892}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2791975465508823132 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 2790710682346345892}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &862368380182477170
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2791975465508823132}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.352, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &2814711177697950209
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7360,6 +7993,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -7436,6 +8073,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -7511,6 +8152,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_forge_chain1_long (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalScale.x
       value: 7
@@ -7533,7 +8178,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -46.070015
+      value: -47.57
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalRotation.w
@@ -7590,6 +8235,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -7649,7 +8298,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1868692112362209210}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &3013896443847967083 stripped
 Transform:
@@ -7657,6 +8310,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3016787104580304655}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &3016066343324842585 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 3016787104580304655}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &1868692112362209210
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3016066343324842585}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &3084034377979976363
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7669,6 +8344,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -7728,7 +8407,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5684743418645651711}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &3081295398719268047 stripped
 Transform:
@@ -7736,6 +8419,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3084034377979976363}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &3083364108780265469 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 3084034377979976363}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &5684743418645651711
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3083364108780265469}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &3139881728401530651
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7747,6 +8452,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -7823,6 +8532,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_container_crate_small_empty03
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 72b369626c991784a901d44918508a5e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 72b369626c991784a901d44918508a5e, type: 3}
       propertyPath: m_LocalScale.x
       value: 5
@@ -7882,8 +8595,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 72b369626c991784a901d44918508a5e,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1870540140588836996}
   m_SourcePrefab: {fileID: 100100000, guid: 72b369626c991784a901d44918508a5e, type: 3}
+--- !u!1 &3153139982504368863 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 72b369626c991784a901d44918508a5e,
+    type: 3}
+  m_PrefabInstance: {fileID: 3153139982504336511}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &1870540140588836996
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3153139982504368863}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.393, y: 0.25, z: 0.33600003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.143, y: 0.25, z: 0.076000005}
+  m_TimeToStationary: 0.5
 --- !u!4 &3153139982504724223 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 72b369626c991784a901d44918508a5e,
@@ -7901,6 +8640,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -7977,6 +8720,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -8032,8 +8779,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7889398434746005351}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+--- !u!1 &3347178805889260367 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 3348249255966430325}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &7889398434746005351
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3347178805889260367}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.069, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &3348452833319174231 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8,
@@ -8051,6 +8824,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
       propertyPath: m_Name
       value: fi_vil_container_crate_big
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
       propertyPath: m_LocalScale.x
@@ -8112,7 +8889,11 @@ PrefabInstance:
     - {fileID: 5804837112188769780, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 469a67ce7c458e0418fd4dd439f1912f,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 452111386708506826}
   m_SourcePrefab: {fileID: 100100000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
 --- !u!4 &3354606010612580092 stripped
 Transform:
@@ -8120,6 +8901,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3354606010612704380}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &3354606010612605660 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 469a67ce7c458e0418fd4dd439f1912f,
+    type: 3}
+  m_PrefabInstance: {fileID: 3354606010612704380}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &452111386708506826
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3354606010612605660}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &3415136680716152890
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8131,6 +8934,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -8206,6 +9013,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: f78191dbce572154697845711316ab6f, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_crate_small (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f78191dbce572154697845711316ab6f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f78191dbce572154697845711316ab6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -8286,6 +9097,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -8341,7 +9156,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8696339321242429927}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
 --- !u!4 &3498040480110001395 stripped
 Transform:
@@ -8349,6 +9168,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3502274035839563425}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &3503551878114591577 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 3502274035839563425}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &8696339321242429927
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3503551878114591577}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.353001, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &3563439207260945968
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8360,6 +9201,10 @@ PrefabInstance:
     - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
@@ -8436,6 +9281,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -8511,6 +9360,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -8585,6 +9438,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: f78191dbce572154697845711316ab6f, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_crate_small
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f78191dbce572154697845711316ab6f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f78191dbce572154697845711316ab6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -8665,6 +9522,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -8740,6 +9601,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -8795,7 +9660,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3911149382314192596}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &3708083302573814336 stripped
 Transform:
@@ -8803,6 +9672,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3709423439535384162}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &3710486025918032216 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 3709423439535384162}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &3911149382314192596
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3710486025918032216}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.069, z: 0.002}
+  m_TimeToStationary: 0.5
 --- !u!1001 &3774787718273538465
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8814,6 +9705,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -8874,8 +9769,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2719714289273912914}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+--- !u!1 &3775215854362041591 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 3774787718273538465}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &2719714289273912914
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3775215854362041591}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &3777667234165450693 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638,
@@ -8894,6 +9815,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -8953,7 +9878,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4615244040485540952}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &3820374367562184704 stripped
 Transform:
@@ -8961,6 +9890,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3822138835726157412}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &3822439779059974962 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 3822138835726157412}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &4615244040485540952
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3822439779059974962}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &3841127410303356736
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8972,6 +9923,10 @@ PrefabInstance:
     - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
@@ -9028,8 +9983,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3733690303455203151}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+--- !u!1 &3840413209974799032 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 3841127410303356736}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &3733690303455203151
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3840413209974799032}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.353001, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &3845924418447148306 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
@@ -9047,6 +10028,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -9123,6 +10108,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_container_bag01_01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_LocalScale.x
       value: 4.842849
@@ -9179,7 +10168,11 @@ PrefabInstance:
     - {fileID: 6041368302672038484, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1263903009150250288}
   m_SourcePrefab: {fileID: 100100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
 --- !u!4 &3921003195494572823 stripped
 Transform:
@@ -9187,6 +10180,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3921003195494971799}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &3921003195495071543 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+    type: 3}
+  m_PrefabInstance: {fileID: 3921003195494971799}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &1263903009150250288
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3921003195495071543}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.22900002, y: 0.23400001, z: 0.21100001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.021000002, y: 0.23400001, z: -0.014}
+  m_TimeToStationary: 0.5
 --- !u!1001 &4018216708821625460
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9198,6 +10213,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -9258,8 +10277,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 388648297570276122}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+--- !u!1 &4018738578627866402 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 4018216708821625460}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &388648297570276122
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4018738578627866402}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &4021107490014483472 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638,
@@ -9277,6 +10322,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -9419,6 +10468,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7021467218467495116, guid: 90056d289ec8ac64985f91c79e042af3,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9441,6 +10495,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -9501,7 +10559,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5307260797624007534}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &4099615783983052047 stripped
 Transform:
@@ -9509,6 +10571,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 4101239867110263659}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4101785651498225213 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 4101239867110263659}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &5307260797624007534
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4101785651498225213}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &4126447722458902115
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9520,6 +10604,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -9672,6 +10760,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: wgwnfde_lod0
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d52406652a4f0084792f46afca89410d,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9694,6 +10787,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -9754,8 +10851,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7579695416467934673}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+--- !u!1 &4253235760902429055 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 4251530936758066217}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &7579695416467934673
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4253235760902429055}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &4255406761251414605 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638,
@@ -9770,9 +10893,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5973388984367171834}
     m_Modifications:
+    - target: {fileID: 100000, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_Name
       value: Latern1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_LocalRotation.w
@@ -9863,6 +11002,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -9937,6 +11080,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -10016,6 +11163,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_Name
       value: LampPost_wall
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_LocalScale.x
@@ -10131,6 +11282,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_forge_chain1_long
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalScale.x
       value: 7
@@ -10153,7 +11308,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -46.070015
+      value: -47.57
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalRotation.w
@@ -10209,6 +11364,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: b7e4012ad085d5446b0704bc74f2a52d, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_weaponrack5_missing
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b7e4012ad085d5446b0704bc74f2a52d, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b7e4012ad085d5446b0704bc74f2a52d, type: 3}
       propertyPath: m_LocalScale.x
@@ -10289,6 +11448,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_container_crate_big (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
       propertyPath: m_LocalScale.x
       value: 5
@@ -10368,8 +11531,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 469a67ce7c458e0418fd4dd439f1912f,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 66274036950473225}
   m_SourcePrefab: {fileID: 100100000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
+--- !u!1 &4832299574658898533 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 469a67ce7c458e0418fd4dd439f1912f,
+    type: 3}
+  m_PrefabInstance: {fileID: 4832299574658931909}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &66274036950473225
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4832299574658898533}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &4832299574659319365 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 469a67ce7c458e0418fd4dd439f1912f,
@@ -10387,6 +11576,10 @@ PrefabInstance:
     - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -10463,6 +11656,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -10537,6 +11734,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -10617,6 +11818,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_container_bag01_01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_LocalScale.x
       value: 4.842849
@@ -10673,8 +11878,34 @@ PrefabInstance:
     - {fileID: 6041368302672038484, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1076321740783466615}
   m_SourcePrefab: {fileID: 100100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+--- !u!1 &4900593526967522297 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+    type: 3}
+  m_PrefabInstance: {fileID: 4900593526967620953}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &1076321740783466615
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4900593526967522297}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.22900002, y: 0.23400001, z: 0.21100001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.021000002, y: 0.23400001, z: -0.014}
+  m_TimeToStationary: 0.5
 --- !u!4 &4900593526967750617 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1,
@@ -10692,6 +11923,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -10752,8 +11987,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 849715492029020684}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+--- !u!1 &4992031459137462711 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 4990478316510717153}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &849715492029020684
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4992031459137462711}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &4994483934441691781 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638,
@@ -10771,6 +12032,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 9cbe3310af4ccca4bb6f6cb2bdbe05c1, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_coolingbath_large2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9cbe3310af4ccca4bb6f6cb2bdbe05c1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9cbe3310af4ccca4bb6f6cb2bdbe05c1, type: 3}
       propertyPath: m_LocalScale.x
@@ -10851,6 +12116,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -10925,6 +12194,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -11001,6 +12274,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -11075,6 +12352,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_Name
       value: LampPost_wall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_LocalScale.x
@@ -11190,6 +12471,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -11249,7 +12534,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8273644987570360728}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &5324664459764471861 stripped
 Transform:
@@ -11257,6 +12546,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5326429216425338449}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5327116903696884487 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 5326429216425338449}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &8273644987570360728
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5327116903696884487}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &5376878643938682657
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11269,6 +12580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -11328,7 +12643,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3471291854770054773}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &5373013812083071301 stripped
 Transform:
@@ -11336,6 +12655,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5376878643938682657}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5375183718032269943 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 5376878643938682657}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &3471291854770054773
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5375183718032269943}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &5458506589857131355
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11347,6 +12688,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_chain1_long (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalScale.x
@@ -11370,7 +12715,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -46.070015
+      value: -47.57
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalRotation.w
@@ -11426,6 +12771,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_Name
       value: fi_vil_container_bag01_01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_LocalScale.x
@@ -11503,6 +12852,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -11578,6 +12931,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -11652,6 +13009,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: cf7753741b842b048b3302dbed02916b, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_scrap10 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cf7753741b842b048b3302dbed02916b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cf7753741b842b048b3302dbed02916b, type: 3}
       propertyPath: m_LocalScale.x
@@ -11732,6 +13093,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -11791,7 +13156,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6912735101460584818}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &5769164810355611349 stripped
 Transform:
@@ -11799,6 +13168,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5773181444340705457}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5771515002071707111 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 5773181444340705457}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &6912735101460584818
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5771515002071707111}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &5864735411086863026
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11810,6 +13201,10 @@ PrefabInstance:
     - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -11886,6 +13281,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -11945,7 +13344,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7707899261828582168}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &5909471685965095957 stripped
 Transform:
@@ -11953,6 +13356,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5912359946880440945}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5911559127470038823 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 5912359946880440945}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &7707899261828582168
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5911559127470038823}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &5945604520984682699
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11965,6 +13390,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -12024,8 +13453,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6140536858362593585}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+--- !u!1 &5946432046684448157 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 5945604520984682699}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &6140536858362593585
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5946432046684448157}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &5948484299473575599 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638,
@@ -12043,6 +13498,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -12118,6 +13577,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_Name
       value: LampPost_wall (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_LocalScale.x
@@ -12233,6 +13696,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -12308,6 +13775,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -12382,6 +13853,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: f78191dbce572154697845711316ab6f, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_crate_small (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f78191dbce572154697845711316ab6f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f78191dbce572154697845711316ab6f, type: 3}
       propertyPath: m_LocalScale.x
@@ -12462,6 +13937,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -12536,6 +14015,10 @@ PrefabInstance:
     - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -12612,6 +14095,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -12683,9 +14170,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5310911634603048154}
     m_Modifications:
+    - target: {fileID: 100000, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_Name
       value: Latern1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: d78538bd679f6fe4b9bd7c6c1e9c8485, type: 3}
       propertyPath: m_LocalRotation.w
@@ -12776,6 +14279,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -12850,6 +14357,10 @@ PrefabInstance:
     - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
@@ -12926,6 +14437,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -13000,6 +14515,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_Name
       value: LampPost_wall (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 00897a0dd899b104ebedcfc97838612c, type: 3}
       propertyPath: m_LocalScale.x
@@ -13115,6 +14634,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -13190,6 +14713,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -13245,7 +14772,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 199473308043746890}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
 --- !u!4 &6570176159395546597 stripped
 Transform:
@@ -13253,6 +14784,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6574391852293541815}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6573391776324516431 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 6574391852293541815}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &199473308043746890
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6573391776324516431}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.353001, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &6637860887496756047
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13264,6 +14817,10 @@ PrefabInstance:
     - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -13320,7 +14877,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4025486159201255978}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &6634133925265383277 stripped
 Transform:
@@ -13328,6 +14889,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6637860887496756047}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6636798249683551349 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 6637860887496756047}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &4025486159201255978
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6636798249683551349}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.068001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &6691308993079526663
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13339,6 +14922,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -13399,7 +14986,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7067797340500649708}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &6688420663037934435 stripped
 Transform:
@@ -13407,6 +14998,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6691308993079526663}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6690855552622149713 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 6691308993079526663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &7067797340500649708
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6690855552622149713}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &6727271555759231241
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13418,6 +15031,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -13494,6 +15111,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -13569,6 +15190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -13628,7 +15253,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3497941649494491758}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &6936369074851091059 stripped
 Transform:
@@ -13636,6 +15265,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6939110069797841943}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &6938450984662034753 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 6939110069797841943}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &3497941649494491758
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6938450984662034753}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &6952082596425244039
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13647,6 +15298,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -13723,6 +15378,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -13782,7 +15441,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5654873357588453359}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &7067295731582012809 stripped
 Transform:
@@ -13790,6 +15453,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 7069051890460750829}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &7069717392630806203 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 7069051890460750829}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &5654873357588453359
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7069717392630806203}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &7092142129634423935
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13868,6 +15553,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7021467218467495116, guid: 90056d289ec8ac64985f91c79e042af3,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13890,6 +15580,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 6d21b2309fc81f34ea0ccd21f760536a, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_toolsrack1b
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6d21b2309fc81f34ea0ccd21f760536a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6d21b2309fc81f34ea0ccd21f760536a, type: 3}
       propertyPath: m_LocalScale.x
@@ -14001,6 +15695,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -14075,6 +15773,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
       propertyPath: m_Name
       value: fi_vil_container_crate_big (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 469a67ce7c458e0418fd4dd439f1912f, type: 3}
       propertyPath: m_LocalScale.x
@@ -14156,6 +15858,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -14211,7 +15917,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 644553959731869715}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
 --- !u!4 &7197462404510221906 stripped
 Transform:
@@ -14219,6 +15929,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 7202275098011716608}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &7202963869856659960 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 7202275098011716608}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &644553959731869715
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7202963869856659960}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.353001, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: 0.001}
+  m_TimeToStationary: 0.5
 --- !u!1001 &7332295057385142925
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14231,6 +15963,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -14286,8 +16022,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5978744423174064563}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+--- !u!1 &7332992627868766069 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 7332295057385142925}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &5978744423174064563
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7332992627868766069}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.353001, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: -0.001}
+  m_TimeToStationary: 0.5
 --- !u!4 &7336523665315852511 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
@@ -14305,6 +16067,10 @@ PrefabInstance:
     - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -14361,8 +16127,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5004012015460312273}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+--- !u!1 &7359319900259615540 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 7360361611746774030}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &5004012015460312273
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7359319900259615540}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.069, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &7361704283020793900 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8,
@@ -14380,6 +16172,10 @@ PrefabInstance:
     - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
@@ -14460,6 +16256,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -14535,6 +16335,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -14590,8 +16394,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7671475724252788670}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+--- !u!1 &7515732491244740107 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 7514450117918141427}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &7671475724252788670
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7515732491244740107}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.353001, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &7519228481726177697 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
@@ -14609,6 +16439,10 @@ PrefabInstance:
     - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
@@ -14685,6 +16519,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -14759,6 +16597,10 @@ PrefabInstance:
     - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -14835,6 +16677,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_container_bag01_01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
       propertyPath: m_LocalScale.x
       value: 4.842849
@@ -14891,8 +16737,34 @@ PrefabInstance:
     - {fileID: 6041368302672038484, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7848822507552388604}
   m_SourcePrefab: {fileID: 100100000, guid: 990dfdc0273fc324daa3afc755f28fa1, type: 3}
+--- !u!1 &7790517341845466456 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 990dfdc0273fc324daa3afc755f28fa1,
+    type: 3}
+  m_PrefabInstance: {fileID: 7790517341845564408}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &7848822507552388604
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7790517341845466456}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.22900002, y: 0.23400001, z: 0.21100001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.021000002, y: 0.23400001, z: -0.014}
+  m_TimeToStationary: 0.5
 --- !u!4 &7790517341845959032 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 990dfdc0273fc324daa3afc755f28fa1,
@@ -14910,6 +16782,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: cffd77da92125de43beff28f0051721e, type: 3}
       propertyPath: m_Name
       value: fi_vil_container_crate_big_empty02
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cffd77da92125de43beff28f0051721e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cffd77da92125de43beff28f0051721e, type: 3}
       propertyPath: m_LocalScale.x
@@ -15021,6 +16897,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -15096,6 +16976,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -15151,7 +17035,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 249585133668487372}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &8102801863396233837 stripped
 Transform:
@@ -15159,6 +17047,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8105821496194139727}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &8104621304411720053 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 8105821496194139727}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &249585133668487372
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8104621304411720053}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.069, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &8145148728954766093
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15170,6 +17080,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -15245,6 +17159,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: cffd77da92125de43beff28f0051721e, type: 3}
       propertyPath: m_Name
       value: fi_vil_container_crate_big_empty02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cffd77da92125de43beff28f0051721e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cffd77da92125de43beff28f0051721e, type: 3}
       propertyPath: m_LocalScale.x
@@ -15325,6 +17243,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -15384,8 +17306,34 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8814705326833669078}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+--- !u!1 &8161722859571657779 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 8161292242534512997}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &8814705326833669078
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8161722859571657779}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!4 &8164174236421211905 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638,
@@ -15403,6 +17351,10 @@ PrefabInstance:
     - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -15459,7 +17411,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 586420149311421967}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &8178888024257403768 stripped
 Transform:
@@ -15467,6 +17423,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8182611412816007002}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &8181551976087158880 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 8182611412816007002}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &586420149311421967
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8181551976087158880}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.069, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &8196256913604333514
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15478,6 +17456,10 @@ PrefabInstance:
     - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -15554,6 +17536,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_6
       objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.010337234
@@ -15628,6 +17614,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: cf7753741b842b048b3302dbed02916b, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_scrap10 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cf7753741b842b048b3302dbed02916b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cf7753741b842b048b3302dbed02916b, type: 3}
       propertyPath: m_LocalScale.x
@@ -15708,6 +17698,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fi_vil_forge_hammer2
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6e8dbe4ccace5f145ac7f067dfcd212c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6e8dbe4ccace5f145ac7f067dfcd212c, type: 3}
       propertyPath: m_LocalScale.x
       value: 5
@@ -15787,6 +17781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -15861,6 +17859,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -15937,6 +17939,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -15996,7 +18002,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1973652388164164051}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &8408725345326140108 stripped
 Transform:
@@ -16004,6 +18014,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8412598887576958120}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &8410878722311287294 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 8412598887576958120}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &1973652388164164051
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8410878722311287294}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &8529716318212517775
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16015,6 +18047,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -16091,6 +18127,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -16165,6 +18205,10 @@ PrefabInstance:
     - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1529133568323316, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4045095964790322, guid: dd107709ac611784db7b9d0e4c74761f, type: 3}
       propertyPath: m_LocalScale.x
@@ -16241,6 +18285,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_5
       objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.009575618
@@ -16316,6 +18364,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4016772569366116, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.049223
@@ -16375,7 +18427,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5830935968924754729}
   m_SourcePrefab: {fileID: 100100000, guid: 2298a07c7abdd4b4db772ab4e69d7638, type: 3}
 --- !u!4 &8801646647912496958 stripped
 Transform:
@@ -16383,6 +18439,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8803411120371466586}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &8803693374170760204 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1970047134172502, guid: 2298a07c7abdd4b4db772ab4e69d7638,
+    type: 3}
+  m_PrefabInstance: {fileID: 8803411120371466586}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &5830935968924754729
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8803693374170760204}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.882002, y: 10.620001, z: 37.212}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 10.316001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &9014617259376550292
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16395,6 +18473,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -16450,7 +18532,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7348304605648454101}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
 --- !u!4 &9010366141588073414 stripped
 Transform:
@@ -16458,6 +18544,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9014617259376550292}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &9016158977768592492 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 9014617259376550292}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &7348304605648454101
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9016158977768592492}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.353001, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &9016013722009005839
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16470,6 +18578,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_4
       objectReference: {fileID: 0}
+    - target: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4814652008483410, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.027628634
@@ -16525,7 +18637,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6064010084963910813}
   m_SourcePrefab: {fileID: 100100000, guid: 76ce888d578cebf41a8cd92dd92f7ed2, type: 3}
 --- !u!4 &9011221614301947229 stripped
 Transform:
@@ -16533,6 +18649,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9016013722009005839}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &9014762549492767479 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1563990319052280, guid: 76ce888d578cebf41a8cd92dd92f7ed2,
+    type: 3}
+  m_PrefabInstance: {fileID: 9016013722009005839}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &6064010084963910813
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9014762549492767479}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 26.901001, y: 14.352, z: 36.877003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 12.723001, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &9069135621674354934
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16544,6 +18682,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_Name
       value: fi_vil_forge_chain1_long (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalScale.x
@@ -16567,7 +18709,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -46.070015
+      value: -47.57
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 85ed1bb75f2f0ae46b7f12f6877b9815, type: 3}
       propertyPath: m_LocalRotation.w
@@ -16690,6 +18832,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: pillar1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7021467218467495116, guid: 90056d289ec8ac64985f91c79e042af3,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16712,6 +18859,10 @@ PrefabInstance:
     - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -16768,7 +18919,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4243869144295549790}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &9102271808404794828 stripped
 Transform:
@@ -16776,6 +18931,28 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9105861812460370414}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &9104671529569367764 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 9105861812460370414}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &4243869144295549790
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9104671529569367764}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.069, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1001 &9138049405680146391
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16787,6 +18964,10 @@ PrefabInstance:
     - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_Name
       value: GibbletChunk_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1800149749774330, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4478017475725426, guid: e34f7bee5dd88544cb37d226dd54d478, type: 3}
       propertyPath: m_LocalScale.x
@@ -16863,6 +19044,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GibbletChunk_1
       objectReference: {fileID: 0}
+    - target: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4300091401409570, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
       propertyPath: m_LocalScale.x
       value: -0.021132218
@@ -16918,7 +19103,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3145291267433217634}
   m_SourcePrefab: {fileID: 100100000, guid: 5393a565263ac1f4d9fbd91281ee69b8, type: 3}
 --- !u!4 &9143032373169388896 stripped
 Transform:
@@ -16926,3 +19115,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9146201066966346050}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &9144870204180096632 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1354145976454970, guid: 5393a565263ac1f4d9fbd91281ee69b8,
+    type: 3}
+  m_PrefabInstance: {fileID: 9146201066966346050}
+  m_PrefabAsset: {fileID: 0}
+--- !u!208 &3145291267433217634
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9144870204180096632}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 48.401, y: 11.496, z: 51.744003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 11.069, z: -0.001}
+  m_TimeToStationary: 0.5

@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5047979942259418698
 Transform:
@@ -64,12 +64,13 @@ GameObject:
   - component: {fileID: 988676126626515341}
   - component: {fileID: 3010551662022849038}
   - component: {fileID: 8574567049898501118}
+  - component: {fileID: 4881791979266940902}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_big_empty (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &988676126626515341
 Transform:
@@ -136,6 +137,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &4881791979266940902
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 817953258460323003}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.526, y: 0.61, z: 0.526}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.61, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &952486524323316841
 GameObject:
   m_ObjectHideFlags: 0
@@ -148,12 +165,13 @@ GameObject:
   - component: {fileID: 352383175659251288}
   - component: {fileID: 1357703064054166154}
   - component: {fileID: 5820110475846963010}
+  - component: {fileID: 4055474528475996060}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4280135473469188479
 Transform:
@@ -241,6 +259,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &4055474528475996060
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 952486524323316841}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &1240561834760734230
 GameObject:
   m_ObjectHideFlags: 0
@@ -253,12 +287,13 @@ GameObject:
   - component: {fileID: 5294765857672697073}
   - component: {fileID: 8693739526427996936}
   - component: {fileID: 3255378086019965271}
+  - component: {fileID: 5187703087904650102}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5819048498611690824
 Transform:
@@ -346,6 +381,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &5187703087904650102
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1240561834760734230}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &1290311842250380190
 GameObject:
   m_ObjectHideFlags: 0
@@ -358,12 +409,13 @@ GameObject:
   - component: {fileID: 9096883833760808796}
   - component: {fileID: 9095398788083656220}
   - component: {fileID: 1474869309551603871}
+  - component: {fileID: 8075985227357618279}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2262062595883792350
 Transform:
@@ -451,6 +503,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &8075985227357618279
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1290311842250380190}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &1452364458156562923
 GameObject:
   m_ObjectHideFlags: 0
@@ -463,12 +531,13 @@ GameObject:
   - component: {fileID: 8000816169144601505}
   - component: {fileID: 1989561293284477869}
   - component: {fileID: 3092433276733365393}
+  - component: {fileID: 4214320100084765828}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7283092294720022373
 Transform:
@@ -556,6 +625,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &4214320100084765828
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1452364458156562923}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &1555748690743337915
 GameObject:
   m_ObjectHideFlags: 0
@@ -567,12 +652,13 @@ GameObject:
   - component: {fileID: 2441866741386539959}
   - component: {fileID: 3539063544505384681}
   - component: {fileID: 4907072448480742811}
+  - component: {fileID: 3729972098302353663}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_big_empty (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2441866741386539959
 Transform:
@@ -639,6 +725,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &3729972098302353663
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555748690743337915}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.526, y: 0.61, z: 0.526}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.61, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &2571889823848921154
 GameObject:
   m_ObjectHideFlags: 0
@@ -651,12 +753,13 @@ GameObject:
   - component: {fileID: 6121192859437898829}
   - component: {fileID: 6965331982951966813}
   - component: {fileID: 1799137904650691395}
+  - component: {fileID: 532026575846887443}
   m_Layer: 0
   m_Name: fi_vil_container_crate_small_empty03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4411044759299723255
 Transform:
@@ -745,6 +848,22 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 98b7be26391082840bc0297d5dfd8cd2, type: 3}
+--- !u!208 &532026575846887443
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2571889823848921154}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.393, y: 0.25, z: 0.33600003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.143, y: 0.25, z: 0.076000005}
+  m_TimeToStationary: 0.5
 --- !u!1 &2950397583841262535
 GameObject:
   m_ObjectHideFlags: 0
@@ -757,12 +876,13 @@ GameObject:
   - component: {fileID: 1700185654807354799}
   - component: {fileID: 8311159451281802008}
   - component: {fileID: 6353279365603533795}
+  - component: {fileID: 2527717509425647042}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4306538821326593817
 Transform:
@@ -850,6 +970,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &2527717509425647042
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2950397583841262535}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &3060274999548341445
 GameObject:
   m_ObjectHideFlags: 0
@@ -862,12 +998,13 @@ GameObject:
   - component: {fileID: 7438668123833584985}
   - component: {fileID: 167991700190380406}
   - component: {fileID: 1378606324394047901}
+  - component: {fileID: 7718301777281931926}
   m_Layer: 0
   m_Name: fi_vil_container_bag01_01 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8334010440410750039
 Transform:
@@ -955,6 +1092,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.4576212, y: 0.46709502, z: 0.42277426}
   m_Center: {x: 0.021349743, y: 0.23354751, z: -0.013879813}
+--- !u!208 &7718301777281931926
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3060274999548341445}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.22900002, y: 0.23400001, z: 0.21100001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.021000002, y: 0.23400001, z: -0.014}
+  m_TimeToStationary: 0.5
 --- !u!1 &3066943166110651042
 GameObject:
   m_ObjectHideFlags: 0
@@ -970,7 +1123,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8562597054640666557
 Transform:
@@ -1022,7 +1175,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5191661319744017076
 Transform:
@@ -1080,12 +1233,13 @@ GameObject:
   - component: {fileID: 5336164156894284814}
   - component: {fileID: 5179571003568113705}
   - component: {fileID: 4059532552644299553}
+  - component: {fileID: 6112749302811765151}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1415206214245283282
 Transform:
@@ -1173,6 +1327,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &6112749302811765151
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3623032535113809478}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &3748193856846579084
 GameObject:
   m_ObjectHideFlags: 0
@@ -1184,12 +1354,13 @@ GameObject:
   - component: {fileID: 6462233702959697317}
   - component: {fileID: 1619510519065548634}
   - component: {fileID: 2654842434827092346}
+  - component: {fileID: 7650322128898022163}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_big_empty (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6462233702959697317
 Transform:
@@ -1256,6 +1427,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &7650322128898022163
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3748193856846579084}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.526, y: 0.61, z: 0.526}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.61, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &4459669595836804863
 GameObject:
   m_ObjectHideFlags: 0
@@ -1267,12 +1454,13 @@ GameObject:
   - component: {fileID: 6959040352610856045}
   - component: {fileID: 2365846596746002306}
   - component: {fileID: 1415881870589585106}
+  - component: {fileID: 1897149349126510904}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_big_empty (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6959040352610856045
 Transform:
@@ -1339,6 +1527,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &1897149349126510904
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4459669595836804863}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.526, y: 0.61, z: 0.526}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.61, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &4509445711567944551
 GameObject:
   m_ObjectHideFlags: 0
@@ -1356,7 +1560,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8485707776171605758
 Transform:
@@ -1461,7 +1665,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &425579207849078510
 Transform:
@@ -1562,12 +1766,13 @@ GameObject:
   - component: {fileID: 5341822489035602587}
   - component: {fileID: 6119799069398981279}
   - component: {fileID: 1807277852736319546}
+  - component: {fileID: 972707733866402022}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6605912729166672717
 Transform:
@@ -1655,6 +1860,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &972707733866402022
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5095112153620463392}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &5162591051711557629
 GameObject:
   m_ObjectHideFlags: 0
@@ -1667,12 +1888,13 @@ GameObject:
   - component: {fileID: 3705250862844374224}
   - component: {fileID: 8192706273371740434}
   - component: {fileID: 863200408174633841}
+  - component: {fileID: 7823252875123348141}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4809588649035905054
 Transform:
@@ -1760,6 +1982,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &7823252875123348141
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5162591051711557629}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &5465369281066122887
 GameObject:
   m_ObjectHideFlags: 0
@@ -1772,12 +2010,13 @@ GameObject:
   - component: {fileID: 8891944663232553570}
   - component: {fileID: 4742306171144444075}
   - component: {fileID: 8419705671844665977}
+  - component: {fileID: 5342849320910388012}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &531437823317877206
 Transform:
@@ -1865,6 +2104,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &5342849320910388012
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5465369281066122887}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &5514878949920181084
 GameObject:
   m_ObjectHideFlags: 0
@@ -1880,7 +2135,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8068490676688681204
 Transform:
@@ -1929,12 +2184,13 @@ GameObject:
   - component: {fileID: 7129789562257911214}
   - component: {fileID: 3705910785492750495}
   - component: {fileID: 8132099738119241928}
+  - component: {fileID: 2426706513401462226}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_big_empty (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7129789562257911214
 Transform:
@@ -2001,6 +2257,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &2426706513401462226
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5571929151566130829}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.526, y: 0.61, z: 0.526}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.61, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &5726799602474744223
 GameObject:
   m_ObjectHideFlags: 0
@@ -2018,7 +2290,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3323316287514792459
 Transform:
@@ -2118,12 +2390,13 @@ GameObject:
   - component: {fileID: 1678987616241534030}
   - component: {fileID: 5758530986414798145}
   - component: {fileID: 7051448937694660147}
+  - component: {fileID: 7489546040756467152}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4603258907526222884
 Transform:
@@ -2211,6 +2484,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &7489546040756467152
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5788218510788382752}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &6029477813662998361
 GameObject:
   m_ObjectHideFlags: 0
@@ -2222,12 +2511,13 @@ GameObject:
   - component: {fileID: 4746477933219007646}
   - component: {fileID: 8987067520680948498}
   - component: {fileID: 5786850569866831941}
+  - component: {fileID: 9028834881272900138}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_big_empty (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4746477933219007646
 Transform:
@@ -2294,6 +2584,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &9028834881272900138
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6029477813662998361}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.526, y: 0.61, z: 0.526}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.61, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &6230937933692436279
 GameObject:
   m_ObjectHideFlags: 0
@@ -2305,12 +2611,13 @@ GameObject:
   - component: {fileID: 249527339315085344}
   - component: {fileID: 1593330265659516764}
   - component: {fileID: 9095865386470887495}
+  - component: {fileID: 7399989215791990883}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_big_empty (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &249527339315085344
 Transform:
@@ -2377,6 +2684,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &7399989215791990883
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6230937933692436279}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.526, y: 0.61, z: 0.526}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.61, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &6475115725656339236
 GameObject:
   m_ObjectHideFlags: 0
@@ -2389,12 +2712,13 @@ GameObject:
   - component: {fileID: 8184171469546277394}
   - component: {fileID: 2160698467956591986}
   - component: {fileID: 6352749969346470077}
+  - component: {fileID: 366358230534190918}
   m_Layer: 0
   m_Name: fi_vil_container_bag01_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1783499056529252731
 Transform:
@@ -2482,6 +2806,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.4576212, y: 0.46709502, z: 0.42277426}
   m_Center: {x: 0.021349743, y: 0.23354751, z: -0.013879813}
+--- !u!208 &366358230534190918
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6475115725656339236}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.22900002, y: 0.23400001, z: 0.21100001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.021000002, y: 0.23400001, z: -0.014}
+  m_TimeToStationary: 0.5
 --- !u!1 &6511401165545835053
 GameObject:
   m_ObjectHideFlags: 0
@@ -2499,7 +2839,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6858467564249335063
 Transform:
@@ -2599,12 +2939,13 @@ GameObject:
   - component: {fileID: 5762039429943323954}
   - component: {fileID: 8499408331101907132}
   - component: {fileID: 1179830587852722159}
+  - component: {fileID: 5599906694131993206}
   m_Layer: 0
   m_Name: fi_vil_container_crate_big (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5611618905061643703
 Transform:
@@ -2692,6 +3033,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.68284225, y: 0.682842, z: 0.68284225}
   m_Center: {x: -0.000000074505806, y: 0.341421, z: 0.00000023841858}
+--- !u!208 &5599906694131993206
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7032006417131662991}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.34100002, y: 0.34100002, z: 0.34100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.34100002, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &7938495730195477366
 GameObject:
   m_ObjectHideFlags: 0
@@ -2704,12 +3061,13 @@ GameObject:
   - component: {fileID: 4636492365678178371}
   - component: {fileID: 4677042387080034450}
   - component: {fileID: 6956139810213745911}
+  - component: {fileID: 8836565793329206562}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_small_empty (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8088353559971289419
 Transform:
@@ -2797,6 +3155,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.6409874, y: 0.74343604, z: 0.6409874}
   m_Center: {x: -0.0000015199184, y: 0.37171802, z: 0}
+--- !u!208 &8836565793329206562
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7938495730195477366}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.32000002, y: 0.372, z: 0.32000002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.372, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &7952896393896514953
 GameObject:
   m_ObjectHideFlags: 0
@@ -2812,7 +3186,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8644021011822100215
 Transform:
@@ -2861,12 +3235,13 @@ GameObject:
   - component: {fileID: 2990388672365690864}
   - component: {fileID: 2015947167141571636}
   - component: {fileID: 2968417204553142161}
+  - component: {fileID: 8800294821549644496}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_big_empty
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2990388672365690864
 Transform:
@@ -2933,6 +3308,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &8800294821549644496
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8216450055876209110}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.526, y: 0.61, z: 0.526}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.61, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &8442521740841225471
 GameObject:
   m_ObjectHideFlags: 0
@@ -2948,7 +3339,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4903372953601703847
 Transform:
@@ -2998,12 +3389,13 @@ GameObject:
   - component: {fileID: 6279785379589849887}
   - component: {fileID: 4614262061873406069}
   - component: {fileID: 4609960736089444294}
+  - component: {fileID: 4484554445504563029}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_small_empty
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &281034458898746122
 Transform:
@@ -3092,6 +3484,22 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 01f28ed244d3ed2488452d6899d42b8e, type: 3}
+--- !u!208 &4484554445504563029
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8546330564220705430}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.32000002, y: 0.372, z: 0.32000002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.372, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &8770530885456983798
 GameObject:
   m_ObjectHideFlags: 0
@@ -3103,12 +3511,13 @@ GameObject:
   - component: {fileID: 3473479514063844734}
   - component: {fileID: 4238503789999429591}
   - component: {fileID: 2058141542722883326}
+  - component: {fileID: 639395854157473653}
   m_Layer: 0
   m_Name: fi_vil_container_barrel_big_empty (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3473479514063844734
 Transform:
@@ -3175,6 +3584,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &639395854157473653
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8770530885456983798}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.526, y: 0.61, z: 0.526}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0.61, z: 0}
+  m_TimeToStationary: 0.5
 --- !u!1 &8942283209125283293
 GameObject:
   m_ObjectHideFlags: 0
@@ -3189,7 +3614,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6590897194732930303
 Transform:
@@ -3222,7 +3647,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3621374662168224533
 Transform:

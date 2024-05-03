@@ -10,6 +10,10 @@ TagManager:
   - Hide Text
   - ScaryTrigger
   - NormalTrigger
+  - GeneralEvent
+  - slot
+  - inventario_con
+  - inventario
   layers:
   - Default
   - TransparentFX
@@ -20,7 +24,7 @@ TagManager:
   - Player
   - Door
   - Enemy
-  - 
+  - Post Processing
   - 
   - 
   - 
