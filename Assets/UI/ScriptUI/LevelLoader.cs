@@ -7,7 +7,7 @@ public static class LevelLoader
     public static void LoadLelevel(string name)
     {
         nextLelevel=name;
-        SceneManager.LoadScene("EscenaTest");
+        SceneManager.LoadScene("SceneLoading");
         
     }
 

@@ -16140,8 +16140,8 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 3996985522312744392}
         m_TargetAssemblyTypeName: CambiarEscena, Assembly-CSharp
-        m_MethodName: SiguienteEscena
-        m_Mode: 5
+        m_MethodName: cambiarEscenaNivel1
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
