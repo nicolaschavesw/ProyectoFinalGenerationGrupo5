@@ -21,6 +21,7 @@ public class ControlleGamePLayUi : MonoBehaviour
 
     void Start()
     {
+        
         canvasPause.SetActive(false);
 
     }

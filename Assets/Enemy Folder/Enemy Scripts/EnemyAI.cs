@@ -174,12 +174,14 @@ public class EnemyAI : MonoBehaviour
     {
         AudioClip footstepSound = footstepSounds[Random.Range(0, footstepSounds.Length)];
         audioSource.PlayOneShot(footstepSound);
+        
     }
 
     public void PlayRunFootstepSound()
     {
         AudioClip runFootstepSound = runFoostepSounds[Random.Range(0, runFoostepSounds.Length)];
         audioSource.PlayOneShot(runFootstepSound);
+        
     }
 
     public bool IsDeathRoutineRunning()

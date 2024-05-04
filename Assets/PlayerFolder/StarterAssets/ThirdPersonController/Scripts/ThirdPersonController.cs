@@ -310,19 +310,6 @@ namespace StarterAssets
                     _verticalVelocity = -2f;
                 }
 
-                // Jump
-                if (_input.jump && _jumpTimeoutDelta <= 0.0f && !inputs.crouch)
-                {
-                    // the square root of H * -2 * G = how much velocity needed to reach desired height
-                    _verticalVelocity = Mathf.Sqrt(JumpHeight * -2f * Gravity);
-
-                    // update animator if using character
-                    if (_hasAnimator)
-                    {
-                        _animator.SetBool(_animIDJump, true);
-                    }
-                }
-
                 // jump timeout
                 if (_jumpTimeoutDelta >= 0.0f)
                 {
@@ -396,7 +383,7 @@ namespace StarterAssets
 
                 if (crouchFootstepsAudioClips.Length > 0)
                 {
-                    //FootstepAudioVolume = AudioManager.InstanceMusic.SFXSlider.value * 2;
+                    FootstepAudioVolume = AudioManager.InstanceMusic.SFXSlider.value * 2;
                     var index = Random.Range(0, crouchFootstepsAudioClips.Length);
                     AudioSource.PlayClipAtPoint(crouchFootstepsAudioClips[index], transform.TransformPoint(_controller.center), FootstepAudioVolume);
 
