@@ -4046,8 +4046,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ra\xFAl Aponte (Gawain)             Angie (Isolde)\n                 Ana
-    Aranceta (Elara)"
+  m_text: "Ra\xFAl Aponte (Gawain)             Angie (Isolde)\nAna Aranceta (Elara)               
+    LucianoPaez (Narrator)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1623183200f20f6469568cd455ac3cd7, type: 2}
   m_sharedMaterial: {fileID: -1321058560615747107, guid: 1623183200f20f6469568cd455ac3cd7,
@@ -8893,7 +8893,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: ScenaPersonajes
+          m_StringArgument: Character Selecter
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &6235604343926236138

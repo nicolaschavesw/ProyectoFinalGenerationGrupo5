@@ -54,7 +54,7 @@ public class ControlleGamePLayUi : MonoBehaviour
                 canvasPause.SetActive(true);
                 Time.timeScale = 0f;
                 juegoPausado = true;
-                starterAssetsInputs.SetCursorState(false);
+                //starterAssetsInputs.SetCursorState(false);
 
             }
          }

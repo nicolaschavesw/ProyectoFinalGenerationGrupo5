@@ -6,17 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SceneLoading.unity
-    guid: c7cc59b404357a94db9492cb4639e1fc
-  - enabled: 1
-    path: Assets/Scenes/ScenaPersonajes.unity
-    guid: 8c3c8043a9d1a434697dfd465cbddc1d
-  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: d72ddc48b4b51cd43a434378356d5614
   - enabled: 1
+    path: Assets/Scenes/Character Selecter.unity
+    guid: 8c3c8043a9d1a434697dfd465cbddc1d
+  - enabled: 1
+    path: Assets/Scenes/Elara Intro.unity
+    guid: bd960b8e74bdef74ea1097943b79f36e
+  - enabled: 1
+    path: Assets/Scenes/Gawain Intro.unity
+    guid: 459b97da5229d7d41b104094e0c04b44
+  - enabled: 1
     path: Assets/Scenes/Level Design.unity
     guid: c2cfeaf7af356804d9c3b218ce316f53
+  - enabled: 1
+    path: Assets/Scenes/Bad Ending.unity
+    guid: adde624a50615ca489d4258567c58e68
+  - enabled: 1
+    path: Assets/Scenes/Good Ending.unity
+    guid: c84ee2a34bac14c4c9d3905e89d7c870
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
       type: 2}

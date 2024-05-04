@@ -48,11 +48,7 @@ public class AudioOrderBadEnding : MonoBehaviour
             // Incrementar el índice para el próximo clip
             currentClipIndex++;
         }
-        else
-        {
-            // Reiniciar la secuencia si ya se reprodujeron todos los clips
-            currentClipIndex = 0;
-        }
+        
     }
 
     IEnumerator AudioOrder()
