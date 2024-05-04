@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level Design.unity
     guid: c2cfeaf7af356804d9c3b218ce316f53
+  - enabled: 1
+    path: Assets/Scenes/Bad Ending.unity
+    guid: adde624a50615ca489d4258567c58e68
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
       type: 2}

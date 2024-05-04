@@ -39,7 +39,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.008680698, g: 0.008848519, b: 0.01971401, a: 1}
+  m_IndirectSpecularColor: {r: 0.008625037, g: 0.008817622, b: 0.019593151, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2711,14 +2711,30 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1.5798632, y: 3.030326, z: 6.0504236}
-  m_Center: {x: 0, y: -0.64815634, z: -0.22250612}
+  m_Size: {x: 1.5798632, y: 20.179892, z: 6.050425}
+  m_Center: {x: 0, y: -9.222941, z: -0.22250612}
 --- !u!4 &1034296546 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 437352, guid: 2813f18062e255a4aa5723d7a214a18c,
     type: 3}
   m_PrefabInstance: {fileID: 2103686136}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1034296549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1034296539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5e0f2ec98b44e14b9f31a1116023b97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Timer: 0
+  Goodending: 0
+  badEnding: 0
+  limitTimer: 10
 --- !u!1 &1050634331
 GameObject:
   m_ObjectHideFlags: 0
@@ -3176,11 +3192,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects:
-    - targetCorrespondingSourceObject: {fileID: 4109502373024615107, guid: 58a1d5dd1a32c6045a723ef313e73193,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 959787557}
+    m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 58a1d5dd1a32c6045a723ef313e73193, type: 3}
 --- !u!1 &1094191155
@@ -3636,7 +3648,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 1418605973}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 87987448733764775, guid: 42295ead70daf3c4fb9ecba5289a34e7,
         type: 3}
@@ -5662,12 +5674,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 141918415356648083, guid: 2112ce5127bee7b4c8e4fdb28047393a,
     type: 3}
   m_PrefabInstance: {fileID: 1388398483}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1418605973 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4109502373024615107, guid: 58a1d5dd1a32c6045a723ef313e73193,
-    type: 3}
-  m_PrefabInstance: {fileID: 1085755950}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1428029672
 PrefabInstance:
@@ -8057,6 +8063,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1034296543}
+    - targetCorrespondingSourceObject: {fileID: 117426, guid: 2813f18062e255a4aa5723d7a214a18c,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1034296549}
   m_SourcePrefab: {fileID: 100100000, guid: 2813f18062e255a4aa5723d7a214a18c, type: 3}
 --- !u!23 &29970305505628098
 MeshRenderer:
@@ -10099,6 +10109,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 1085755950}
   - {fileID: 37031541}
+  - {fileID: 1203629092}
   - {fileID: 1229321541}
   - {fileID: 669534386}
   - {fileID: 1522699628}

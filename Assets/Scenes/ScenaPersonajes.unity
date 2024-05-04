@@ -16277,7 +16277,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 3996985522312744392}
         m_TargetAssemblyTypeName: CambiarEscena, Assembly-CSharp
-        m_MethodName: cambiarEscenaNivel1
+        m_MethodName: CambiarEscenaConCarga
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

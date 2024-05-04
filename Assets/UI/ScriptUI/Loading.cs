@@ -4,14 +4,15 @@ using UnityEngine.SceneManagement;
 
 public class Loading : MonoBehaviour
 {
+    public int TimeScene;
     void Start()
     {
-        StartCoroutine(MakeTheLoad());
+        StartCoroutine(MakeTheLoad(TimeScene));
     }
 
-    IEnumerator MakeTheLoad()
+    IEnumerator MakeTheLoad(float Time)
     {
-        yield return new WaitForSeconds(1f); // Esperar un tiempo antes de cargar la escena
+        yield return new WaitForSeconds(Time);
         SceneManager.LoadScene(LevelLoader.nextLevel);
     }
 }
