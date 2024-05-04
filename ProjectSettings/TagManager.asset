@@ -5,20 +5,27 @@ TagManager:
   serializedVersion: 2
   tags:
   - PanelMusica
+  - CinemachineTarget
   - Stop Hide Text
   - Hide Text
-  - CinemachineTarget
+  - ScaryTrigger
+  - NormalTrigger
+  - GeneralEvent
+  - slot
+  - inventario_con
+  - inventario
+  - Lantern
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Personajes
   - Water
   - UI
-  - Door
   - Player
+  - Door
   - Enemy
-  - 
+  - Post Processing
   - 
   - 
   - 
@@ -44,4 +51,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: 2
+    uniqueID: 2731800753
     locked: 0

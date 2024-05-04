@@ -18,9 +18,14 @@ public class CambiarEscena : MonoBehaviour
     // }
      public void cambiarEscenaNivel1()
         {
-            LevelLoader.LoadLelevel("Level Design");
+            
 
         }
+    public void CambiarEscenaConCarga()
+    {
+        LevelLoader.LoadLevel("Level Design","SceneLoading");
+    }
+
     // public void cambiarEscenaNivelMenu()
     // {
     //     SceneManager.LoadScene("MainMenu");
@@ -34,5 +39,9 @@ public class CambiarEscena : MonoBehaviour
     public void SiguienteEscena(string nombreEscena)
     {
         SceneManager.LoadScene(nombreEscena);
+    }
+    public void SalirDelJuego()
+    {
+        Application.Quit();
     }
 }

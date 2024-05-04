@@ -1,41 +1,43 @@
-using System.Collections;
-using System.Collections.Generic;
+using StarterAssets;
 using UnityEngine;
+
 
 public class CargarPersonaje : MonoBehaviour
 {
      public GameObject maleCharacter;
      public GameObject femaleCharacter;
+     private GameObject personajeIntanciado;
 
      public bool male;
+
      public bool female;
 
+     public Transform  StartPoint;
      void Start()
-     {
-         maleCharacter.SetActive(false);
-         femaleCharacter.SetActive(false);
-     }
-     private void Update()
      {
 
           male = PlayerPrefs.GetInt("playerUnoSelect") == 1;
           female = PlayerPrefs.GetInt("playerDosSelect") == 1;
+
           if (male == true)
           {
-               maleCharacter.SetActive(true);
-               femaleCharacter.SetActive(false);
 
+               personajeIntanciado = Instantiate(maleCharacter, StartPoint.position, Quaternion.identity);
           }
           if (female == true)
           {
-               femaleCharacter.SetActive(true);
-               maleCharacter.SetActive(false);
-
+               personajeIntanciado = Instantiate(femaleCharacter, StartPoint.position, Quaternion.identity);
           }
-
      }
-
-
-
+     public StarterAssetsInputs GetStarterAssetsInputs()
+     {
+          if(personajeIntanciado != null)
+          {
+               return personajeIntanciado.GetComponent<StarterAssetsInputs>();
+          }else
+          {
+               return null;
+          }
+     }
 
 }

@@ -16,7 +16,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5707077996421733775
 Transform:
@@ -94,12 +94,13 @@ GameObject:
   - component: {fileID: 4592779666067432299}
   - component: {fileID: 4789064068008932102}
   - component: {fileID: 3279073217531246615}
+  - component: {fileID: 4283523076204705907}
   m_Layer: 0
   m_Name: bags_bag3 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4592779666067432299
 Transform:
@@ -166,6 +167,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &4283523076204705907
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 536284079791379832}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.045, y: 1.8850001, z: 1.853}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 1.5600001, y: 4.184, z: 13.920001}
+  m_TimeToStationary: 0.5
 --- !u!1 &951197733897395859
 GameObject:
   m_ObjectHideFlags: 0
@@ -182,7 +199,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &825347989803157959
 Transform:
@@ -263,7 +280,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2397062294950387076
 Transform:
@@ -304,12 +321,13 @@ GameObject:
   - component: {fileID: 3732453003307897428}
   - component: {fileID: 3020314408890416585}
   - component: {fileID: 775979239029745023}
+  - component: {fileID: 5352636668251033866}
   m_Layer: 0
   m_Name: Medieval box 4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2658462670013630336
 Transform:
@@ -398,6 +416,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.006519154, y: 0.003087796, z: 0.0023635535}
   m_Center: {x: 0.00000037453162, y: -0.0000012989598, z: 0.0011742371}
+--- !u!208 &5352636668251033866
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1122880666739892033}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.003, y: 0.002, z: 0.001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0, z: 0.001}
+  m_TimeToStationary: 0.5
 --- !u!1 &1265495300716733777
 GameObject:
   m_ObjectHideFlags: 0
@@ -409,12 +443,13 @@ GameObject:
   - component: {fileID: 2947060227068982108}
   - component: {fileID: 6974736635443351649}
   - component: {fileID: 4396296362198656720}
+  - component: {fileID: 3669558071517268113}
   m_Layer: 0
   m_Name: bags_bag4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2947060227068982108
 Transform:
@@ -481,6 +516,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &3669558071517268113
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265495300716733777}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 1.6190001, y: 1.3670001, z: 2.331}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 3.7560003, y: 4.335, z: 13.582001}
+  m_TimeToStationary: 0.5
 --- !u!1 &1414047061217615915
 GameObject:
   m_ObjectHideFlags: 0
@@ -492,12 +543,13 @@ GameObject:
   - component: {fileID: 7969300992589357997}
   - component: {fileID: 9018177057665804599}
   - component: {fileID: 4657946709408199656}
+  - component: {fileID: 4945883685679127847}
   m_Layer: 0
   m_Name: cages_cage_l3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7969300992589357997
 Transform:
@@ -564,6 +616,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &4945883685679127847
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1414047061217615915}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.5300002, y: 2.459, z: 2.5310001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.91300005, y: 2.459, z: -19.769001}
+  m_TimeToStationary: 0.5
 --- !u!1 &1724135414624697694
 GameObject:
   m_ObjectHideFlags: 0
@@ -580,7 +648,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9180186223372503886
 Transform:
@@ -664,7 +732,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3830199458008107982
 Transform:
@@ -718,7 +786,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7530188000912594714
 Transform:
@@ -800,7 +868,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4125360985461513214
 Transform:
@@ -849,12 +917,13 @@ GameObject:
   - component: {fileID: 8939760301089928076}
   - component: {fileID: 2758982387731607338}
   - component: {fileID: 6189950993543188545}
+  - component: {fileID: 7565462663541035387}
   m_Layer: 0
   m_Name: cage_l1_cages (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8939760301089928076
 Transform:
@@ -921,6 +990,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &7565462663541035387
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1992801297868979282}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.5500002, y: 2.459, z: 2.549}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 6.4600005, y: 2.459, z: -16.472}
+  m_TimeToStationary: 0.5
 --- !u!1 &2031500399255677346
 GameObject:
   m_ObjectHideFlags: 0
@@ -937,7 +1022,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1431349101585902384
 Transform:
@@ -1019,7 +1104,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4313647221565036164
 Transform:
@@ -1068,12 +1153,13 @@ GameObject:
   - component: {fileID: 7409715781285902131}
   - component: {fileID: 2713801801445578032}
   - component: {fileID: 8045087930003954032}
+  - component: {fileID: 1439115218418990963}
   m_Layer: 0
   m_Name: bags_bag4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7409715781285902131
 Transform:
@@ -1140,6 +1226,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &1439115218418990963
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2347627853877210703}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 1.6190001, y: 1.3670001, z: 2.331}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 3.7560003, y: 4.335, z: 13.582001}
+  m_TimeToStationary: 0.5
 --- !u!1 &2640453117411278840
 GameObject:
   m_ObjectHideFlags: 0
@@ -1156,7 +1258,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3030163376527952518
 Transform:
@@ -1236,12 +1338,13 @@ GameObject:
   - component: {fileID: 6979848954320428104}
   - component: {fileID: 4216240539148353339}
   - component: {fileID: 928383816751796513}
+  - component: {fileID: 940486938896917769}
   m_Layer: 0
   m_Name: cages_cage_l5 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6979848954320428104
 Transform:
@@ -1308,6 +1411,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &940486938896917769
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2713246742514096066}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 3.058, y: 2.249, z: 3.058}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 3.9020002, y: 7.1940002, z: -15.361001}
+  m_TimeToStationary: 0.5
 --- !u!1 &2819506354101078423
 GameObject:
   m_ObjectHideFlags: 0
@@ -1319,12 +1438,13 @@ GameObject:
   - component: {fileID: 1071388919392749444}
   - component: {fileID: 1477637368443541037}
   - component: {fileID: 7565449470818293577}
+  - component: {fileID: 5097324270114925019}
   m_Layer: 0
   m_Name: bags_bag2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1071388919392749444
 Transform:
@@ -1391,6 +1511,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &5097324270114925019
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2819506354101078423}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.89800006, y: 0.984, z: 2.223}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -1.0250001, y: 2.7900002, z: 13.496}
+  m_TimeToStationary: 0.5
 --- !u!1 &2971199270280257599
 GameObject:
   m_ObjectHideFlags: 0
@@ -1407,7 +1543,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8857442639981687049
 Transform:
@@ -1490,7 +1626,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1207251704338569977
 Transform:
@@ -1572,7 +1708,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &487875300019031733
 Transform:
@@ -1625,7 +1761,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3946048559491914078
 Transform:
@@ -1674,12 +1810,13 @@ GameObject:
   - component: {fileID: 4897487154536043515}
   - component: {fileID: 544131439782899091}
   - component: {fileID: 2457571005859672956}
+  - component: {fileID: 3136242434472757536}
   m_Layer: 0
   m_Name: cages_cage_l4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4897487154536043515
 Transform:
@@ -1746,6 +1883,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &3136242434472757536
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3538026346984745458}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 3.0100002, y: 2.459, z: 3.0100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.933, y: 2.459, z: -14.029}
+  m_TimeToStationary: 0.5
 --- !u!1 &3709754484219211628
 GameObject:
   m_ObjectHideFlags: 0
@@ -1761,7 +1914,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5892060118748867268
 Transform:
@@ -1810,12 +1963,13 @@ GameObject:
   - component: {fileID: 6504121180930958485}
   - component: {fileID: 8255168274169723992}
   - component: {fileID: 9135781649915436289}
+  - component: {fileID: 7656344430054250902}
   m_Layer: 0
   m_Name: bag5_bags (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6504121180930958485
 Transform:
@@ -1882,6 +2036,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &7656344430054250902
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3847834802267645088}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.1550002, y: 0.8880001, z: 1.251}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 3.3030002, y: 3.4250002, z: 12.170001}
+  m_TimeToStationary: 0.5
 --- !u!1 &3889363661640025712
 GameObject:
   m_ObjectHideFlags: 0
@@ -1898,7 +2068,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2584708861306545955
 Transform:
@@ -1976,12 +2146,13 @@ GameObject:
   - component: {fileID: 6483706548089213990}
   - component: {fileID: 4104872656334571798}
   - component: {fileID: 4538048665605900970}
+  - component: {fileID: 8192705950091641873}
   m_Layer: 0
   m_Name: carriage_l1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6483706548089213990
 Transform:
@@ -2048,6 +2219,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &8192705950091641873
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3898576385840956960}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 17.085001, y: 7.7710004, z: 4.8770003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -3.361, y: 7.794, z: -0.014}
+  m_TimeToStationary: 0.5
 --- !u!1 &4099517215868567423
 GameObject:
   m_ObjectHideFlags: 0
@@ -2063,7 +2250,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6255984475790010025
 Transform:
@@ -2113,12 +2300,13 @@ GameObject:
   - component: {fileID: 2282695603487364499}
   - component: {fileID: 5189161228626496046}
   - component: {fileID: 1387975390803579637}
+  - component: {fileID: 4315543586140693281}
   m_Layer: 0
   m_Name: Medieval box 2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8210948001488927545
 Transform:
@@ -2207,6 +2395,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.005033469, y: 0.0030877953, z: 0.002060436}
   m_Center: {x: -0.00000008696228, y: -0.0000012958773, z: 0.0010196132}
+--- !u!208 &4315543586140693281
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4162159791255446234}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.003, y: 0.002, z: 0.001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0, z: 0.001}
+  m_TimeToStationary: 0.5
 --- !u!1 &4253455914269730522
 GameObject:
   m_ObjectHideFlags: 0
@@ -2223,7 +2427,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9124357686307508561
 Transform:
@@ -2301,12 +2505,13 @@ GameObject:
   - component: {fileID: 2007594343494031479}
   - component: {fileID: 1822011414994234295}
   - component: {fileID: 511029927373599671}
+  - component: {fileID: 7615125489265154430}
   m_Layer: 0
   m_Name: bags_bag3 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2007594343494031479
 Transform:
@@ -2373,6 +2578,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &7615125489265154430
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4333176480626201158}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.045, y: 1.8850001, z: 1.853}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 1.5600001, y: 4.184, z: 13.920001}
+  m_TimeToStationary: 0.5
 --- !u!1 &4364195017747743603
 GameObject:
   m_ObjectHideFlags: 0
@@ -2384,12 +2605,13 @@ GameObject:
   - component: {fileID: 1242365916866540342}
   - component: {fileID: 3074203936392045516}
   - component: {fileID: 4947896373380793961}
+  - component: {fileID: 1580077126854422063}
   m_Layer: 0
   m_Name: bags_bag3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1242365916866540342
 Transform:
@@ -2456,6 +2678,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &1580077126854422063
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4364195017747743603}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.045, y: 1.8850001, z: 1.853}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 1.5600001, y: 4.184, z: 13.920001}
+  m_TimeToStationary: 0.5
 --- !u!1 &4425783372434974149
 GameObject:
   m_ObjectHideFlags: 0
@@ -2467,12 +2705,13 @@ GameObject:
   - component: {fileID: 3125240802345025384}
   - component: {fileID: 8397631072308468910}
   - component: {fileID: 7537326650011478883}
+  - component: {fileID: 2924324794595558381}
   m_Layer: 0
   m_Name: carriage_s1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3125240802345025384
 Transform:
@@ -2539,6 +2778,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &2924324794595558381
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4425783372434974149}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 6.8910003, y: 3.0740001, z: 3.2600002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.79800004, y: 3.0270002, z: 13.504001}
+  m_TimeToStationary: 0.5
 --- !u!1 &4457588782035567369
 GameObject:
   m_ObjectHideFlags: 0
@@ -2555,7 +2810,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5812568842462647698
 Transform:
@@ -2638,7 +2893,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1480890495699040866
 Transform:
@@ -2696,12 +2951,13 @@ GameObject:
   - component: {fileID: 7516938321814158561}
   - component: {fileID: 6619173776325357924}
   - component: {fileID: 2917587529502497916}
+  - component: {fileID: 592428936056967852}
   m_Layer: 0
   m_Name: cages_cage_s3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7516938321814158561
 Transform:
@@ -2768,6 +3024,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &592428936056967852
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4491332040979659367}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.9970002, y: 1.192, z: 2.4810002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.156, y: 6.1250005, z: -18.639}
+  m_TimeToStationary: 0.5
 --- !u!1 &4535577321266039277
 GameObject:
   m_ObjectHideFlags: 0
@@ -2783,7 +3055,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9185400146935443948
 Transform:
@@ -2836,7 +3108,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8331700370615450577
 Transform:
@@ -2888,7 +3160,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5216128423545783477
 Transform:
@@ -2921,7 +3193,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &857585312050751925
 Transform:
@@ -2971,7 +3243,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4166376162368002554
 Transform:
@@ -3053,7 +3325,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &251735559231167488
 Transform:
@@ -3105,7 +3377,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5893050064351511412
 Transform:
@@ -3141,7 +3413,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4041126411659696514
 Transform:
@@ -3241,12 +3513,13 @@ GameObject:
   - component: {fileID: 414534163114657678}
   - component: {fileID: 329035131137680497}
   - component: {fileID: 6814037132377404416}
+  - component: {fileID: 6153077123504376856}
   m_Layer: 0
   m_Name: bags_bag2 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &414534163114657678
 Transform:
@@ -3313,6 +3586,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &6153077123504376856
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5380025965872880794}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.89800006, y: 0.984, z: 2.223}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -1.0250001, y: 2.7900002, z: 13.496}
+  m_TimeToStationary: 0.5
 --- !u!1 &5508731127371345663
 GameObject:
   m_ObjectHideFlags: 0
@@ -3328,7 +3617,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1334611461338520587
 Transform:
@@ -3377,12 +3666,13 @@ GameObject:
   - component: {fileID: 8642464793328513081}
   - component: {fileID: 2874330350400463714}
   - component: {fileID: 8658081183403979379}
+  - component: {fileID: 5928479226211958211}
   m_Layer: 0
   m_Name: bags_bag3 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8642464793328513081
 Transform:
@@ -3449,6 +3739,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &5928479226211958211
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5516820428561903368}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.045, y: 1.8850001, z: 1.853}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 1.5600001, y: 4.184, z: 13.920001}
+  m_TimeToStationary: 0.5
 --- !u!1 &5928744760940811727
 GameObject:
   m_ObjectHideFlags: 0
@@ -3460,12 +3766,13 @@ GameObject:
   - component: {fileID: 9023250171578817822}
   - component: {fileID: 2869898881124609867}
   - component: {fileID: 253608315405245160}
+  - component: {fileID: 7459068306845351630}
   m_Layer: 0
   m_Name: cages_cage_s3 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &9023250171578817822
 Transform:
@@ -3532,6 +3839,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &7459068306845351630
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5928744760940811727}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.9970002, y: 1.192, z: 2.4810002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.156, y: 6.1250005, z: -18.639}
+  m_TimeToStationary: 0.5
 --- !u!1 &6096874118576085914
 GameObject:
   m_ObjectHideFlags: 0
@@ -3544,12 +3867,13 @@ GameObject:
   - component: {fileID: 7753495997410179493}
   - component: {fileID: 4769490202096373232}
   - component: {fileID: 254690089520910412}
+  - component: {fileID: 1347227212350702046}
   m_Layer: 0
   m_Name: Medieval box 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7115867210868276092
 Transform:
@@ -3638,6 +3962,22 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.005033469, y: 0.004137251, z: 0.0020604357}
   m_Center: {x: -0.000000090687536, y: 0.0000014887189, z: 0.001025419}
+--- !u!208 &1347227212350702046
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6096874118576085914}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.003, y: 0.002, z: 0.001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0, y: 0, z: 0.001}
+  m_TimeToStationary: 0.5
 --- !u!1 &6119825633742434869
 GameObject:
   m_ObjectHideFlags: 0
@@ -3653,7 +3993,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4656549887360771597
 Transform:
@@ -3708,7 +4048,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5359487509167122723
 Transform:
@@ -3813,7 +4153,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &331114708033726666
 Transform:
@@ -3897,7 +4237,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5567954289037975923
 Transform:
@@ -4002,7 +4342,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5100432042984098877
 Transform:
@@ -4083,7 +4423,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5930842447026643013
 Transform:
@@ -4117,7 +4457,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5094616790954477262
 Transform:
@@ -4169,7 +4509,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5040911562821018460
 Transform:
@@ -4208,7 +4548,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1762391321422362848
 Transform:
@@ -4257,12 +4597,13 @@ GameObject:
   - component: {fileID: 8674006759525152142}
   - component: {fileID: 8114305051818231974}
   - component: {fileID: 9100423326831563150}
+  - component: {fileID: 7116857595450101770}
   m_Layer: 0
   m_Name: cage_l1_cages
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8674006759525152142
 Transform:
@@ -4329,6 +4670,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &7116857595450101770
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6993573565799207997}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.5500002, y: 2.459, z: 2.549}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 6.4600005, y: 2.459, z: -16.472}
+  m_TimeToStationary: 0.5
 --- !u!1 &7335575962953482128
 GameObject:
   m_ObjectHideFlags: 0
@@ -4345,7 +4702,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8661830082051225167
 Transform:
@@ -4427,7 +4784,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4733502312864304082
 Transform:
@@ -4476,12 +4833,13 @@ GameObject:
   - component: {fileID: 5160281140079112604}
   - component: {fileID: 3980574051615014267}
   - component: {fileID: 2564284784537559635}
+  - component: {fileID: 3617970184926808218}
   m_Layer: 0
   m_Name: bags_bag2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5160281140079112604
 Transform:
@@ -4548,6 +4906,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &3617970184926808218
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7639032814566116482}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.89800006, y: 0.984, z: 2.223}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -1.0250001, y: 2.7900002, z: 13.496}
+  m_TimeToStationary: 0.5
 --- !u!1 &7739524803855320821
 GameObject:
   m_ObjectHideFlags: 0
@@ -4559,12 +4933,13 @@ GameObject:
   - component: {fileID: 5037283175301145471}
   - component: {fileID: 5883858999436060409}
   - component: {fileID: 288268068767941155}
+  - component: {fileID: 4511903821071945479}
   m_Layer: 0
   m_Name: cages_cage_l3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5037283175301145471
 Transform:
@@ -4631,6 +5006,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &4511903821071945479
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7739524803855320821}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.5300002, y: 2.459, z: 2.5310001}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.91300005, y: 2.459, z: -19.769001}
+  m_TimeToStationary: 0.5
 --- !u!1 &7763527989971490346
 GameObject:
   m_ObjectHideFlags: 0
@@ -4642,12 +5033,13 @@ GameObject:
   - component: {fileID: 1372789412405198619}
   - component: {fileID: 8814167019704046482}
   - component: {fileID: 152810804078325538}
+  - component: {fileID: 8553427992401060781}
   m_Layer: 0
   m_Name: bag5_bags
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1372789412405198619
 Transform:
@@ -4714,6 +5106,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &8553427992401060781
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7763527989971490346}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 2.1550002, y: 0.8880001, z: 1.251}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 3.3030002, y: 3.4250002, z: 12.170001}
+  m_TimeToStationary: 0.5
 --- !u!1 &8094785383793771207
 GameObject:
   m_ObjectHideFlags: 0
@@ -4725,12 +5133,13 @@ GameObject:
   - component: {fileID: 6679525142703518467}
   - component: {fileID: 294109055868441503}
   - component: {fileID: 521042676839586882}
+  - component: {fileID: 8269946945904549748}
   m_Layer: 0
   m_Name: cages_cage_l4 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6679525142703518467
 Transform:
@@ -4797,6 +5206,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &8269946945904549748
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8094785383793771207}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 3.0100002, y: 2.459, z: 3.0100002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 0.933, y: 2.459, z: -14.029}
+  m_TimeToStationary: 0.5
 --- !u!1 &8247695984272090554
 GameObject:
   m_ObjectHideFlags: 0
@@ -4813,7 +5238,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3452963256847865698
 Transform:
@@ -4891,12 +5316,13 @@ GameObject:
   - component: {fileID: 8752299160879685463}
   - component: {fileID: 5596765276113301559}
   - component: {fileID: 6271414137310294079}
+  - component: {fileID: 9202086597042519966}
   m_Layer: 0
   m_Name: cages_cage_l5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8752299160879685463
 Transform:
@@ -4963,6 +5389,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &9202086597042519966
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8283638390054637456}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 3.058, y: 2.249, z: 3.058}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: 3.9020002, y: 7.1940002, z: -15.361001}
+  m_TimeToStationary: 0.5
 --- !u!1 &8497918830722332584
 GameObject:
   m_ObjectHideFlags: 0
@@ -4979,7 +5421,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3857474766640290016
 Transform:
@@ -5059,12 +5501,13 @@ GameObject:
   - component: {fileID: 3184670229699424263}
   - component: {fileID: 4227630695604718449}
   - component: {fileID: 4667070357493673236}
+  - component: {fileID: 4451426984742982564}
   m_Layer: 0
   m_Name: carriage_l1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3184670229699424263
 Transform:
@@ -5131,6 +5574,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &4451426984742982564
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8598879892335616354}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 17.085001, y: 7.7710004, z: 4.8770003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -3.361, y: 7.794, z: -0.014}
+  m_TimeToStationary: 0.5
 --- !u!1 &8708460007346868679
 GameObject:
   m_ObjectHideFlags: 0
@@ -5146,7 +5605,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &273114261164877620
 Transform:
@@ -5201,7 +5660,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &589515383098090116
 Transform:
@@ -5301,12 +5760,13 @@ GameObject:
   - component: {fileID: 3825220477018133491}
   - component: {fileID: 4627898506928619777}
   - component: {fileID: 4056405572177714001}
+  - component: {fileID: 5645314445176597445}
   m_Layer: 0
   m_Name: carriage_s1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3825220477018133491
 Transform:
@@ -5373,6 +5833,22 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!208 &5645314445176597445
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9056374964145228283}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 6.8910003, y: 3.0740001, z: 3.2600002}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.79800004, y: 3.0270002, z: 13.504001}
+  m_TimeToStationary: 0.5
 --- !u!1 &9118215627548744110
 GameObject:
   m_ObjectHideFlags: 0
@@ -5388,7 +5864,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4735809583610552565
 Transform:

@@ -15,15 +15,15 @@ public class ControlleGamePLayUi : MonoBehaviour
     public GameObject canvasPause;
     private bool juegoPausado = false;
 
+    public CargarPersonaje cargarPersonaje;
     private StarterAssetsInputs starterAssetsInputs;
     
 
     void Start()
     {
+        
         canvasPause.SetActive(false);
-        starterAssetsInputs = GameObject.FindObjectOfType<StarterAssetsInputs>();
-        starterAssetsInputs.SetCursorState(true);
-    
+
     }
 
     // Update is called once per frame
@@ -44,24 +44,40 @@ public class ControlleGamePLayUi : MonoBehaviour
 
     void PausarJuego()
     {
-        canvasPause.SetActive(true);
-        Time.timeScale = 0.0f;
-        juegoPausado = true;
-        starterAssetsInputs.cursorInputForLook=false;
-        starterAssetsInputs.cursorLocked=false;
-        starterAssetsInputs.SetCursorState(false);
+
+        GameObject playerCharacter = GameObject.FindGameObjectWithTag("Player"); 
+        if (playerCharacter != null)
+        {
+            starterAssetsInputs = playerCharacter.GetComponent<StarterAssetsInputs>();
+            if (starterAssetsInputs != null)
+            {
+                canvasPause.SetActive(true);
+                Time.timeScale = 0f;
+                juegoPausado = true;
+                starterAssetsInputs.SetCursorState(false);
+
+            }
+         }
+
+        
     }
 
     public void ReanudarJuego()
     {
-        canvasPause.SetActive(false);
-        Time.timeScale = 1.0f;
-        juegoPausado = false;
-        starterAssetsInputs.cursorInputForLook=true;
-        starterAssetsInputs.cursorLocked=true;
-        starterAssetsInputs.SetCursorState(false);
-    }
-    
+        GameObject playerCharacter = GameObject.FindGameObjectWithTag("Player"); // Puedes ajustar la etiqueta según tu configuración
+        if (playerCharacter != null)
+        {
+            starterAssetsInputs = playerCharacter.GetComponent<StarterAssetsInputs>();
+            if (starterAssetsInputs != null)
+            {
+                // Activa el canvas y reanuda el tiempo
+                canvasPause.SetActive(false);
+                Time.timeScale = 1.0f;
+                juegoPausado = false;
+                starterAssetsInputs.SetCursorState(true);
+            }
+         }
+    } 
     public void ReiniciarJuego ()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);

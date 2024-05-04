@@ -45,6 +45,11 @@ public class EnemyAI : MonoBehaviour
 
     private void Update()
     {
+        if(inputs == null)
+        {
+            inputs = FindAnyObjectByType<StarterAssetsInputs>();
+            player = inputs.transform;
+        }
         detectionDistance = inputs.crouch ? originalDetectionDistance / 2 : originalDetectionDistance;
         Vector3 direction = (player.position - transform.position).normalized;
         RaycastHit hit;
@@ -169,12 +174,14 @@ public class EnemyAI : MonoBehaviour
     {
         AudioClip footstepSound = footstepSounds[Random.Range(0, footstepSounds.Length)];
         audioSource.PlayOneShot(footstepSound);
+        
     }
 
     public void PlayRunFootstepSound()
     {
         AudioClip runFootstepSound = runFoostepSounds[Random.Range(0, runFoostepSounds.Length)];
         audioSource.PlayOneShot(runFootstepSound);
+        
     }
 
     public bool IsDeathRoutineRunning()

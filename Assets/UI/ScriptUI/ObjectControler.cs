@@ -5,11 +5,13 @@ using UnityEngine;
 public class ObjectControler : MonoBehaviour
 {
     [SerializeField] GameObject Object;
+    [SerializeField] AudioClip soundCheck;
+    public GameObject colliderKey;
 
 
 
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter(Collider collision)
     {
         if (collision.tag == "Player")
         {
@@ -20,9 +22,13 @@ public class ObjectControler : MonoBehaviour
                 {
                     GameObject.FindGameObjectWithTag("GeneralEvent").GetComponent<InventoryControler>().SetSlot(Object);
                     GameObject.FindGameObjectWithTag("GeneralEvent").GetComponent<InventoryControler>().showInventory();
-                    Destroy(gameObject);
+                    AudioManager.InstanceMusic.PlaySound(soundCheck);
+                    Debug.Log("Apaga");
+                    colliderKey.SetActive(false); 
+                    gameObject.SetActive(false);
                     return;
                 }
+
             }
         }
     }
