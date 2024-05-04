@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/UI/Imagenes/Recurso 3 (1).png.meta
+guid: 93a1fffa6145fc6489d542e5a9b1a35b
+========
 guid: 5be17e5c0b74c3841be05a820b7e075d
+>>>>>>>> MERGE_FIXED:Assets/UI/Imagenes/Boton.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

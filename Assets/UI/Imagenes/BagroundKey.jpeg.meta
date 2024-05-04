@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/UI/Imagenes/Mause1.png.meta
+guid: 327b085a3620db14d802faec09e61460
+========
 guid: f941e3c3d962aaa41b776ace43e71dbe
+>>>>>>>> MERGE_FIXED:Assets/UI/Imagenes/BagroundKey.jpeg.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
