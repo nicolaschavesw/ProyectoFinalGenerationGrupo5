@@ -44,39 +44,22 @@ public class ControlleGamePLayUi : MonoBehaviour
 
     void PausarJuego()
     {
-
-        GameObject playerCharacter = GameObject.FindGameObjectWithTag("Player"); 
-        if (playerCharacter != null)
-        {
-            starterAssetsInputs = playerCharacter.GetComponent<StarterAssetsInputs>();
-            if (starterAssetsInputs != null)
-            {
-                canvasPause.SetActive(true);
-                Time.timeScale = 0f;
-                juegoPausado = true;
-                //starterAssetsInputs.SetCursorState(false);
-
-            }
-         }
+        
+        canvasPause.SetActive(true);
+        Time.timeScale = 0f;
+        juegoPausado = true;
+        SetCursorState(false);
 
         
     }
 
     public void ReanudarJuego()
     {
-        GameObject playerCharacter = GameObject.FindGameObjectWithTag("Player"); // Puedes ajustar la etiqueta según tu configuración
-        if (playerCharacter != null)
-        {
-            starterAssetsInputs = playerCharacter.GetComponent<StarterAssetsInputs>();
-            if (starterAssetsInputs != null)
-            {
-                // Activa el canvas y reanuda el tiempo
-                canvasPause.SetActive(false);
-                Time.timeScale = 1.0f;
-                juegoPausado = false;
-                starterAssetsInputs.SetCursorState(true);
-            }
-         }
+        canvasPause.SetActive(false);
+        Time.timeScale = 1f;
+        juegoPausado = false;
+        SetCursorState(true);
+
     } 
     public void ReiniciarJuego ()
     {
@@ -105,5 +88,9 @@ public class ControlleGamePLayUi : MonoBehaviour
     {
         Application.Quit();
     }
+    public void SetCursorState(bool newState)
+	{
+		Cursor.lockState = newState ? CursorLockMode.Locked : CursorLockMode.None;
+	}
 
 }

@@ -21,9 +21,13 @@ public class CambiarEscena : MonoBehaviour
             
 
         }
-    public void CambiarEscenaConCarga()
+    public void CambiarEscenaintroGawain()
     {
-        LevelLoader.LoadLevel("Level Design","SceneLoading");
+        LevelLoader.LoadLevel("Level Design","Gawain Intro");
+    }
+    public void CambiarEscenaintroElara()
+    {
+        LevelLoader.LoadLevel("Level Design","Elara Intro");
     }
 
     // public void cambiarEscenaNivelMenu()

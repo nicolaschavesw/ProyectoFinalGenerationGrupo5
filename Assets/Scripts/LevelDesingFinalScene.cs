@@ -1,8 +1,5 @@
 using StarterAssets;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Windows;
 
 public class LevelDesingFinalScene : MonoBehaviour
 {
@@ -19,12 +16,13 @@ public class LevelDesingFinalScene : MonoBehaviour
         if (Goodending)
         {
             LevelLoader.LoadLevel("MainMenu", "Good Ending");
-            
+            SetCursorState(false);
 
         }
         if (badEnding)
         {
             LevelLoader.LoadLevel("MainMenu", "Bad Ending");
+            SetCursorState(false);
             
         }
 
@@ -45,4 +43,9 @@ public class LevelDesingFinalScene : MonoBehaviour
             badEnding = true;
         }
     }
+     public void SetCursorState(bool newState)
+	{
+		Cursor.lockState = newState ? CursorLockMode.Locked : CursorLockMode.None;
+	}
+
 }
