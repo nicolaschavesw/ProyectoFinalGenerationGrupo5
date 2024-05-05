@@ -823,13 +823,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 995227855403348577}
   serializedVersion: 2
-  m_LocalRotation: {x: -4.32978e-17, y: 0.7071067, z: 0.7071068, w: -4.3297806e-17}
-  m_LocalPosition: {x: 0, y: 0.46124864, z: 0}
+  m_LocalRotation: {x: -0.035213765, y: 0.6853291, z: 0.72238785, w: 0.08508766}
+  m_LocalPosition: {x: -0.33, y: 0.29, z: 0.17}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 228489587879569545}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: -84.964, y: 48.501, z: 121.73}
 --- !u!33 &2787366548646799701
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -28841,15 +28841,15 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8958844105022959369}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.047466837, y: 0.44908893, z: 0.41448516, w: 0.79010636}
-  m_LocalPosition: {x: 1.035, y: 0.19, z: -0.383}
+  m_LocalRotation: {x: -0.20767, y: 0.45224217, z: 0.055006504, w: 0.86563534}
+  m_LocalPosition: {x: 0.093, y: -0.658, z: 1.258}
   m_LocalScale: {x: 0.22768, y: 0.22768, z: 0.22768}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 8792583133418558383}
   - {fileID: 8945628090708354499}
   m_Father: {fileID: 2695656046562139762}
-  m_LocalEulerAnglesHint: {x: -17.294, y: 51.672, z: 46.94}
+  m_LocalEulerAnglesHint: {x: -24.16, y: 56.416, z: -5.825}
 --- !u!1 &8972364458281084974
 GameObject:
   m_ObjectHideFlags: 0
@@ -29635,7 +29635,7 @@ PrefabInstance:
     - target: {fileID: 7552325380232887710, guid: 9f90aa15c6b14234ea7247f33f09e816,
         type: 3}
       propertyPath: m_Range
-      value: 30
+      value: 70
       objectReference: {fileID: 0}
     - target: {fileID: 7552325380232887710, guid: 9f90aa15c6b14234ea7247f33f09e816,
         type: 3}
@@ -29656,6 +29656,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Intensity
       value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 7552325380232887710, guid: 9f90aa15c6b14234ea7247f33f09e816,
+        type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7552325380232887710, guid: 9f90aa15c6b14234ea7247f33f09e816,
         type: 3}

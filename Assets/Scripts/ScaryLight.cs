@@ -52,14 +52,14 @@ public class ScaryLight : MonoBehaviour
                 // Apaga la luz
                 light.enabled = false;
             }
-            yield return new WaitForSeconds(Random.Range(0.1f, 0.3f));
+            yield return new WaitForSeconds(Random.Range(0.1f, 0.5f));
 
             foreach (Light light in pointLights)
             {
                 // Enciende la luz
                 light.enabled = true;
             }
-            yield return new WaitForSeconds(Random.Range(0.1f, 0.3f));
+            yield return new WaitForSeconds(Random.Range(0.1f, 0.5f));
         }
     }
 }
