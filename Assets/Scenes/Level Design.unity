@@ -1732,8 +1732,13 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1379651558032915219, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
+      propertyPath: m_Range
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 1379651558032915219, guid: e26cfbf1efc826a42992cd034d3aad2c,
+        type: 3}
       propertyPath: m_Intensity
-      value: 10
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 1379651558032915219, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
@@ -1747,8 +1752,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3084784699505411615, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
+      propertyPath: m_Range
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 3084784699505411615, guid: e26cfbf1efc826a42992cd034d3aad2c,
+        type: 3}
       propertyPath: m_Intensity
-      value: 10
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 3084784699505411615, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
@@ -1772,8 +1782,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6438384864180789532, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
+      propertyPath: m_Range
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 6438384864180789532, guid: e26cfbf1efc826a42992cd034d3aad2c,
+        type: 3}
       propertyPath: m_Intensity
-      value: 10
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 6438384864180789532, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
@@ -1787,8 +1802,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7165356146050342474, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
+      propertyPath: m_Range
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 7165356146050342474, guid: e26cfbf1efc826a42992cd034d3aad2c,
+        type: 3}
       propertyPath: m_Intensity
-      value: 10
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 7165356146050342474, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
@@ -1852,8 +1872,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8796932324242350989, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
+      propertyPath: m_Range
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 8796932324242350989, guid: e26cfbf1efc826a42992cd034d3aad2c,
+        type: 3}
       propertyPath: m_Intensity
-      value: 10
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 8796932324242350989, guid: e26cfbf1efc826a42992cd034d3aad2c,
         type: 3}
