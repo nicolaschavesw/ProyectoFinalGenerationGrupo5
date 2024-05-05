@@ -155,7 +155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maleCharacter: {fileID: 1942557243}
   femaleCharacter: {fileID: 144807742}
-  male: 1
+  male: 0
   female: 0
   StartPoint: {fileID: 59424309}
 --- !u!4 &59424309
@@ -185,7 +185,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec19801752663504b8d718d047d6695d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeScene: 40
+  timeScene: 25
 --- !u!1 &144807742 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4355986813968048260, guid: 392124f066e21574b9981e80b6bf60da,
